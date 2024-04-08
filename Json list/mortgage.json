@@ -1,0 +1,292 @@
+{
+  "expenses": [
+    {
+        "Description": "הלואה קרן",
+        "Amount": 985,
+        "Date": 1,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "הלו ריבית",
+        "Amount": 226,
+        "Date": 1,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "משכנת",
+        "Amount": 5226,
+        "Date": 1,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "הוראת קבע",
+        "Amount": 1435,
+        "Date": 1,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "ביטוח ישיר - חיים",
+        "Amount": 35.29,
+        "Date": 1,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "ישיר ביטוח דירה",
+        "Amount": 34,
+        "Date": 1,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "הלואה קרן",
+        "Amount": 1189,
+        "Date": 2,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "משכנת",
+        "Amount": 5314,
+        "Date": 2,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "הוראת קבע",
+        "Amount": 1435,
+        "Date": 2,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "ביטוח ישיר-חיים",
+        "Amount": 34.39,
+        "Date": 2,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "ישיר ביטוח דירה",
+        "Amount": 41.55,
+        "Date": 2,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "הלואה קרן",
+        "Amount": 1219.91,
+        "Date": 3,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "",
+        "Amount": 3,
+        "Date": 3,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "משכנתא",
+        "Amount": 5248,
+        "Date": 3,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "הוראת קבע",
+        "Amount": 1435,
+        "Date": 3,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "ביטוח ישיר-חיים",
+        "Amount": 34.39,
+        "Date": 3,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "ישיר ביטוח דירה",
+        "Amount": 41.55,
+        "Date": 3,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "הלואה קרן",
+        "Amount": 1211,
+        "Date": 4,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "",
+        "Amount": 4,
+        "Date": 4,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "משכנת",
+        "Amount": 5377,
+        "Date": 4,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "הוראת קבע",
+        "Amount": 1435,
+        "Date": 4,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "בנק לאומי-דמי כרטיס",
+        "Amount": 18,
+        "Date": 4,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "ביטוח ישיר-חיים",
+        "Amount": 34.69,
+        "Date": 4,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "ישיר ביטוח דירה",
+        "Amount": 41.55,
+        "Date": 4,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "משכנת",
+        "Amount": 5402,
+        "Date": 5,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "הוראת קבע",
+        "Amount": 1435,
+        "Date": 5,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "ביטוח ישיר-חיים",
+        "Amount": 34.96,
+        "Date": 5,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "ישיר ביטוח דירה",
+        "Amount": 41.55,
+        "Date": 5,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "ביטוח ישיר-חיים",
+        "Amount": 34.96,
+        "Date": 6,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "ישיר ביטוח דירה",
+        "Amount": 41.55,
+        "Date": 6,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "משכנת",
+        "Amount": 5459,
+        "Date": 6,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "הוראת קבע",
+        "Amount": 1435,
+        "Date": 6,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "ביטוח ישיר-חיים",
+        "Amount": 35.03,
+        "Date": 7,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "ישיר ביטוח דירה",
+        "Amount": 41.55,
+        "Date": 7,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "משכנת",
+        "Amount": 5459,
+        "Date": 7,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "הוראת קבע",
+        "Amount": 1450,
+        "Date": 7,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "ביטוח ישיר-חיים",
+        "Amount": 35.13,
+        "Date": 8,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "ישיר ביטוח דירה",
+        "Amount": 41.55,
+        "Date": 8,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "משכנת",
+        "Amount": 5521,
+        "Date": 8,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "הוראת קבע",
+        "Amount": 1435,
+        "Date": 8,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "משכנת",
+        "Amount": 5500,
+        "Date": 9,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "הוראת קבע",
+        "Amount": 1435,
+        "Date": 9,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "משכנת",
+        "Amount": 5484,
+        "Date": 10,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "הוראת קבע",
+        "Amount": 1450,
+        "Date": 10,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "משכנת",
+        "Amount": 5512,
+        "Date": 11,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "הוראת קבע",
+        "Amount": 1450,
+        "Date": 11,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "משכנת",
+        "Amount": 5497,
+        "Date": 12,
+        "Flag": "mortgage"
+    },
+    {
+        "Description": "הוראת קבע",
+        "Amount": 1450,
+        "Date": 12,
+        "Flag": "mortgage"
+    }
+	]
+}
