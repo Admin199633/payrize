@@ -1,6 +1,12 @@
 {
   "expenses": [
     {
+        "Description": ""טיב טעם - יהוד"",
+        "Amount": 18,
+        "Date": 1,
+        "Flag": "leisure"
+    },
+    {
         "Description": "גולדה פארק המדע",
         "Amount": 18,
         "Date": 1,
