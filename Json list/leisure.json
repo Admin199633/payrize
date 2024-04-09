@@ -94,5 +94,11 @@
         "Description": "פיצה ציז מודיעין",
         "Amount": 25.0,
         "Flag": "Leisure"
+    },
+    {
+        "Date": 1710460800000,
+        "Description": "PAR DERRIERE",
+        "Amount": 62.0,
+        "Flag": "Leisure"
     }
 ]
