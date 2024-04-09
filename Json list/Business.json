@@ -46,5 +46,11 @@
         "Description": "חניון גן העיר תל אבי",
         "Amount": 100.0,
         "Flag": "Business"
+    },
+    {
+        "Date": 1711843200000,
+        "Description": "נאייקס ישראל חניונים",
+        "Amount": 50.0,
+        "Flag": "Business"
     }
 ]
