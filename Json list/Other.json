@@ -92,5 +92,13 @@
         "Description": "פיצה ציז מודיעין",
         "Amount": 25.0,
         "Flag": "Other"
+    },
+    {
+        "Date": 1710806400000,
+        "Description": "העברה בbit",
+        "Amount": 40.0,
+        "Flag": [
+            "Other"
+        ]
     }
 ]
