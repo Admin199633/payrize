@@ -1,0 +1,477 @@
+[
+    {
+        "Date": 1709337600000,
+        "Description": "טיב טעם - יהוד",
+        "Amount": 8.2,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 8.2,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 7004082.0,
+        "Unnamed: 7": null,
+        "Flag": "Home"
+    },
+    {
+        "Date": 1709424000000,
+        "Description": "מספרת אקספרס",
+        "Amount": 70.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 70.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 1065.0,
+        "Unnamed: 7": null,
+        "Flag": [
+            "Other"
+        ]
+    },
+    {
+        "Date": 1709683200000,
+        "Description": "חומוס חמודות",
+        "Amount": 28.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 28.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 9001043.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1709683200000,
+        "Description": "עזורי אקו טאואר",
+        "Amount": 45.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 45.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 9001005.0,
+        "Unnamed: 7": null,
+        "Flag": [
+            "Business"
+        ]
+    },
+    {
+        "Date": 1709769600000,
+        "Description": "עזורי אקו טאואר",
+        "Amount": 45.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 45.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 1006.0,
+        "Unnamed: 7": null,
+        "Flag": [
+            "Business"
+        ]
+    },
+    {
+        "Date": 1710028800000,
+        "Description": "מכבידנט מודיעין עילי",
+        "Amount": 137.9,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 137.9,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 6347006.0,
+        "Unnamed: 7": null,
+        "Flag": "Pharm"
+    },
+    {
+        "Date": 1710115200000,
+        "Description": "חניוני יעקבי",
+        "Amount": 16.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 16.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 1105.0,
+        "Unnamed: 7": null,
+        "Flag": "Business"
+    },
+    {
+        "Date": 1710201600000,
+        "Description": "אי אם פי אם זבוטינסק",
+        "Amount": 39.91,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 39.91,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 6002093.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1710201600000,
+        "Description": "העברה בbit",
+        "Amount": 100.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 100.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 3357101.0,
+        "Unnamed: 7": null,
+        "Flag": [
+            "Other"
+        ]
+    },
+    {
+        "Date": 1710201600000,
+        "Description": "שיבולת השרון מודיעין",
+        "Amount": 10.94,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 10.94,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 1108.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1710288000000,
+        "Description": "סונול המכבים",
+        "Amount": 9.5,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 9.5,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 7001200.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1710288000000,
+        "Description": "העברה בbit",
+        "Amount": 50.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 50.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 4400479.0,
+        "Unnamed: 7": null,
+        "Flag": [
+            "Other"
+        ]
+    },
+    {
+        "Date": 1710288000000,
+        "Description": "סוכריה",
+        "Amount": 10.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 10.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 1014.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1710288000000,
+        "Description": "פיצה ציז מודיעין",
+        "Amount": 25.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 25.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 2008.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1710288000000,
+        "Description": "העברה בbit",
+        "Amount": 1050.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 1050.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 4417030.0,
+        "Unnamed: 7": null,
+        "Flag": [
+            "Other"
+        ]
+    },
+    {
+        "Date": 1710374400000,
+        "Description": "ר. הדואר-מכירת מוצרי",
+        "Amount": 50.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 50.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 6001001.0,
+        "Unnamed: 7": null,
+        "Flag": "Other"
+    },
+    {
+        "Date": 1710374400000,
+        "Description": "פיצה ציז מודיעין",
+        "Amount": 25.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 25.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 1019.0,
+        "Unnamed: 7": null,
+        "Flag": "Other"
+    },
+    {
+        "Date": 1710460800000,
+        "Description": "PAR DERRIERE",
+        "Amount": 62.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 62.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 1008.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1710460800000,
+        "Description": "פיצה ציז מודיעין",
+        "Amount": 27.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 27.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 1014.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1710633600000,
+        "Description": "חומוס חמודות",
+        "Amount": 28.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 28.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 8001019.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1710633600000,
+        "Description": "נאייקס ישראל חניונים",
+        "Amount": 65.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 65.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 9001919.0,
+        "Unnamed: 7": null,
+        "Flag": "Business"
+    },
+    {
+        "Date": 1710720000000,
+        "Description": "אי אם פי אם זבוטינסק",
+        "Amount": 19.9,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 19.9,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 8003077.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1710806400000,
+        "Description": "העברה בbit",
+        "Amount": 40.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 40.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 61068.0,
+        "Unnamed: 7": null,
+        "Flag": [
+            "Other"
+        ]
+    },
+    {
+        "Date": 1710892800000,
+        "Description": "פיצה ציז מודיעין",
+        "Amount": 25.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 25.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 2019.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1711065600000,
+        "Description": "העברה בbit",
+        "Amount": 65.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 65.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 3355082.0,
+        "Unnamed: 7": null,
+        "Flag": [
+            "Other"
+        ]
+    },
+    {
+        "Date": 1711065600000,
+        "Description": "הקטן לוינסקי 46",
+        "Amount": 60.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 60.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 4001071.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1711065600000,
+        "Description": "צמיגי השדרה",
+        "Amount": 170.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 170.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 1007.0,
+        "Unnamed: 7": null,
+        "Flag": "Transportation"
+    },
+    {
+        "Date": 1711065600000,
+        "Description": "השוק 7- פיצוציה",
+        "Amount": 9.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 9.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 1104.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1711065600000,
+        "Description": "גרגר הזהב בעמ",
+        "Amount": 80.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 80.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 5002.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1711065600000,
+        "Description": "בנק לאומי-דמי כרטיס",
+        "Amount": 19.7,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 0.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": null,
+        "Unnamed: 7": "הנחה 19.70      ש\"ח",
+        "Flag": [
+            "Other"
+        ]
+    },
+    {
+        "Date": 1711152000000,
+        "Description": "סיטי מרקט  מודיעין",
+        "Amount": 8.9,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 8.9,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 2187.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1711238400000,
+        "Description": "סונול שילת",
+        "Amount": 100.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 100.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 6001005.0,
+        "Unnamed: 7": null,
+        "Flag": [
+            "transportation"
+        ]
+    },
+    {
+        "Date": 1711238400000,
+        "Description": "עזורי אקו טאואר",
+        "Amount": 45.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 45.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 4001007.0,
+        "Unnamed: 7": null,
+        "Flag": [
+            "Business"
+        ]
+    },
+    {
+        "Date": 1711411200000,
+        "Description": "חומוס חמודות",
+        "Amount": 28.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 28.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 5001074.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1711411200000,
+        "Description": "ביטוח ישיר-חיים",
+        "Amount": 33.35,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 33.35,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 2075613.0,
+        "Unnamed: 7": null,
+        "Flag": [
+            "mortgage"
+        ]
+    },
+    {
+        "Date": 1711411200000,
+        "Description": "נאייקס ישראל חניונים",
+        "Amount": 50.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 50.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 2001198.0,
+        "Unnamed: 7": null,
+        "Flag": "Business"
+    },
+    {
+        "Date": 1711584000000,
+        "Description": "חניון גן העיר תל אבי",
+        "Amount": 100.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 100.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 5001020.0,
+        "Unnamed: 7": null,
+        "Flag": "Business"
+    },
+    {
+        "Date": 1711584000000,
+        "Description": "סופר מימון",
+        "Amount": 8.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 8.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 1230.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1711756800000,
+        "Description": "פיצה ציז מודיעין",
+        "Amount": 25.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 25.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 1004.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1711843200000,
+        "Description": "סופר אלונית -אלון המ",
+        "Amount": 9.9,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 9.9,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 8001066.0,
+        "Unnamed: 7": null,
+        "Flag": "Leisure"
+    },
+    {
+        "Date": 1711843200000,
+        "Description": "נאייקס ישראל חניונים",
+        "Amount": 50.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 50.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 4001942.0,
+        "Unnamed: 7": null,
+        "Flag": "Business"
+    }
+]
