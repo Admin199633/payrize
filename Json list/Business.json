@@ -6,5 +6,13 @@
         "Flag": [
             "Business"
         ]
+    },
+    {
+        "Date": 1709769600000,
+        "Description": "עזורי אקו טאואר",
+        "Amount": 45.0,
+        "Flag": [
+            "Business"
+        ]
     }
 ]
