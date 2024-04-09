@@ -1,5 +1,4 @@
 {
-  "expenses": [
     {
         "Description": ""טיב טעם - יהוד"",
         "Amount": 18,
@@ -1422,5 +1421,5 @@
     "Date": 12,
     "Flag": "leisure"
 }
-  ]
+
 }
