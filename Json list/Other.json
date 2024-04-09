@@ -86,5 +86,11 @@
         "Description": "ר. הדואר-מכירת מוצרי",
         "Amount": 50.0,
         "Flag": "Other"
+    },
+    {
+        "Date": 1710374400000,
+        "Description": "פיצה ציז מודיעין",
+        "Amount": 25.0,
+        "Flag": "Other"
     }
 ]
