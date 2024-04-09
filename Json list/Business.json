@@ -14,5 +14,11 @@
         "Flag": [
             "Business"
         ]
+    },
+    {
+        "Date": 1710115200000,
+        "Description": "חניוני יעקבי",
+        "Amount": 16.0,
+        "Flag": "Business"
     }
 ]
