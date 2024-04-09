@@ -11,5 +11,18 @@
         "Flag": [
             "Other"
         ]
+    },
+    {
+        "Date": 1709424000000,
+        "Description": "מספרת אקספרס",
+        "Amount": 70.0,
+        "Unnamed: 3": "₪",
+        "Unnamed: 4": 70.0,
+        "Unnamed: 5": "₪",
+        "Unnamed: 6": 1065.0,
+        "Unnamed: 7": null,
+        "Flag": [
+            "Other"
+        ]
     }
 ]
