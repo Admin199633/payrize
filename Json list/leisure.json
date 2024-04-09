@@ -82,5 +82,11 @@
         "Description": "סונול המכבים",
         "Amount": 9.5,
         "Flag": "Leisure"
+    },
+    {
+        "Date": 1710288000000,
+        "Description": "סוכריה",
+        "Amount": 10.0,
+        "Flag": "Leisure"
     }
 ]
