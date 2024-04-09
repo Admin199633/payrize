@@ -76,5 +76,11 @@
         "Description": "שיבולת השרון מודיעין",
         "Amount": 10.94,
         "Flag": "Leisure"
+    },
+    {
+        "Date": 1710288000000,
+        "Description": "סונול המכבים",
+        "Amount": 9.5,
+        "Flag": "Leisure"
     }
 ]
