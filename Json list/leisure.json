@@ -148,5 +148,11 @@
         "Description": "סיטי מרקט  מודיעין",
         "Amount": 8.9,
         "Flag": "Leisure"
+    },
+    {
+        "Date": 1711411200000,
+        "Description": "חומוס חמודות",
+        "Amount": 28.0,
+        "Flag": "Leisure"
     }
 ]
