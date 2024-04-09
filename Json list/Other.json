@@ -80,5 +80,11 @@
         "Flag": [
             "Other"
         ]
+    },
+    {
+        "Date": 1710374400000,
+        "Description": "ר. הדואר-מכירת מוצרי",
+        "Amount": 50.0,
+        "Flag": "Other"
     }
 ]
