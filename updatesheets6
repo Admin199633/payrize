@@ -1,0 +1,55 @@
+import os.path
+import json
+from datetime import datetime
+from google_auth_oauthlib.flow import InstalledAppFlow
+from google.auth.transport.requests import Request
+from googleapiclient.discovery import build
+from googleapiclient.errors import HttpError
+
+# Define the scopes and spreadsheet ID
+SCOPES = ["https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/drive"]
+SPREADSHEET_ID = "1ncWrIEXjrAjC4h_hwBgzWNQvig-1ZAjF7F7k5-fxfS0"
+CLIENT_SECRETS_FILE = "C:\\Users\\LiorSw\\Downloads\\credentials.json"  # Replace with the path to your JSON file
+
+def main():
+    """Post JSON data to a Google Sheets document."""
+    creds = None
+    flow = InstalledAppFlow.from_client_secrets_file(
+        CLIENT_SECRETS_FILE,
+        scopes=SCOPES
+    )
+    creds = flow.run_local_server(port=0)
+
+    try:
+        service = build("sheets", "v4", credentials=creds)
+        sheet = service.spreadsheets()
+
+        # Read JSON data from file
+        with open("C:\\Users\\LiorSw\\AppData\\Roaming\\JetBrains\\PyCharm2023.3\\scratches\\output5.json", "r", encoding="utf-8") as json_file:
+            json_data = json.load(json_file)
+
+        # Prepare values for writing to the sheet
+        values = []
+        for entry in json_data:
+            # Convert Unix timestamp to human-readable date
+            date_str = datetime.utcfromtimestamp(entry["Date"] / 1000).strftime('%Y-%m-%d')
+            values.append([date_str, entry.get("Description", ""), entry.get("Amount", ""), entry.get("Flag", "")])
+
+        # Append values to the specified range starting from cell A1
+        body = {
+            "values": values
+        }
+
+        result = sheet.values().update(
+            spreadsheetId=SPREADSHEET_ID,
+            range="Sheet1!A1",  # Start writing from cell A1
+            valueInputOption="RAW",
+            body=body
+        ).execute()
+
+        print("Data successfully written to Google Sheets.")
+    except HttpError as err:
+        print("An error occurred:", err)
+
+if __name__ == "__main__":
+    main()
