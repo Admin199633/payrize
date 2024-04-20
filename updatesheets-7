@@ -1,5 +1,6 @@
 import os.path
 import json
+import time
 from datetime import datetime
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
@@ -9,7 +10,8 @@ from googleapiclient.errors import HttpError
 # Define the scopes and spreadsheet ID
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/drive"]
 SPREADSHEET_ID = "1ncWrIEXjrAjC4h_hwBgzWNQvig-1ZAjF7F7k5-fxfS0"
-CLIENT_SECRETS_FILE = "C:\\Users\\LiorSw\\Downloads\\credentials.json"  # Replace with the path to your JSON file
+CLIENT_SECRETS_FILE = "C:\\Users\\LS\\Desktop\\rizeup1\\credentials.json"  # Replace with the path to your JSON file
+REQUEST_DELAY = 3  # Delay between requests in seconds
 
 def main():
     """Post JSON data to a Google Sheets document."""
@@ -24,32 +26,127 @@ def main():
         service = build("sheets", "v4", credentials=creds)
         sheet = service.spreadsheets()
 
-        # Read JSON data from file
-        with open("C:\\Users\\LiorSw\\AppData\\Roaming\\JetBrains\\PyCharm2023.3\\scratches\\output5.json", "r", encoding="utf-8") as json_file:
-            json_data = json.load(json_file)
+        # Define the range A1:Z1
+        range_ = "A1:Z1"
 
-        # Prepare values for writing to the sheet
-        values = []
-        for entry in json_data:
-            # Convert Unix timestamp to human-readable date
-            date_str = datetime.utcfromtimestamp(entry["Date"] / 1000).strftime('%Y-%m-%d')
-            values.append([date_str, entry.get("Description", ""), entry.get("Amount", ""), entry.get("Flag", "")])
-
-        # Append values to the specified range starting from cell A1
-        body = {
-            "values": values
-        }
-
-        result = sheet.values().update(
+        # Get the values from the specified range
+        print("Getting values from spreadsheet...")
+        result = sheet.values().get(
             spreadsheetId=SPREADSHEET_ID,
-            range="Sheet1!A1",  # Start writing from cell A1
-            valueInputOption="RAW",
-            body=body
+            range=range_
         ).execute()
 
-        print("Data successfully written to Google Sheets.")
-    except HttpError as err:
-        print("An error occurred:", err)
+        # Extract the values
+        values = result.get("values", [])
+
+        # Check if there are any values
+        if not values:
+            print("No data found.")
+        else:
+            # Iterate over each cell in the first row (columns A-Z)
+            for i, column in enumerate(values[0]):
+                flag_column = chr(65 + i)  # Column letter (A-Z)
+                flag = column.strip()  # Remove any leading/trailing whitespaces
+
+                # Iterate over each entry in json_data
+                for entry in json_data:
+                    entry_flags = entry.get('Flag', [])
+                    if flag in entry_flags:
+                        description = entry.get('Description', '')
+                        amount = entry.get('Amount', '')  # New line to get the amount
+                        date_timestamp = entry.get('Date', '')  # New line to get the date
+
+                        # Convert timestamp to datetime object
+                        date = datetime.fromtimestamp(date_timestamp / 1000.0).strftime('%Y-%m-%d')
+
+                        # Find the next empty row in the column for description
+                        next_row_range = f"{flag_column}2:{flag_column}"
+                        next_row_result = sheet.values().get(
+                            spreadsheetId=SPREADSHEET_ID,
+                            range=next_row_range
+                        ).execute()
+                        next_row_values = next_row_result.get('values', [])
+
+                        # Write the description to the next empty row
+                        next_row = len(
+                            next_row_values) + 2  # +2 because Google Sheets indices start from 1 and we skip the header row
+                        body = {
+                            'values': [[description]]
+                        }
+                        update_range = f"{flag_column}{next_row}:{flag_column}"
+                        request = sheet.values().update(
+                            spreadsheetId=SPREADSHEET_ID,
+                            range=update_range,
+                            valueInputOption='RAW',
+                            body=body
+                        )
+                        response = request.execute()
+
+                        # Find the next empty row in the column for amount
+                        amount_flag_column = chr(65 + i + 1)  # Next column letter (A-Z)
+                        next_row_range_amount = f"{amount_flag_column}2:{amount_flag_column}"
+                        next_row_result_amount = sheet.values().get(
+                            spreadsheetId=SPREADSHEET_ID,
+                            range=next_row_range_amount
+                        ).execute()
+                        next_row_values_amount = next_row_result_amount.get('values', [])
+
+                        # Write the amount to the next empty row
+                        next_row_amount = len(
+                            next_row_values_amount) + 2  # +2 because Google Sheets indices start from 1 and we skip the header row
+                        body_amount = {
+                            'values': [[amount]]
+                        }
+                        update_range_amount = f"{amount_flag_column}{next_row_amount}:{amount_flag_column}"
+                        request_amount = sheet.values().update(
+                            spreadsheetId=SPREADSHEET_ID,
+                            range=update_range_amount,
+                            valueInputOption='RAW',
+                            body=body_amount
+                        )
+                        response_amount = request_amount.execute()
+
+                        # Find the next empty row in the column for date
+                        date_flag_column = chr(65 + i + 2)  # Next column letter (A-Z)
+                        next_row_range_date = f"{date_flag_column}2:{date_flag_column}"
+                        next_row_result_date = sheet.values().get(
+                            spreadsheetId=SPREADSHEET_ID,
+                            range=next_row_range_date
+                        ).execute()
+                        next_row_values_date = next_row_result_date.get('values', [])
+
+                        # Write the date to the next empty row
+                        next_row_date = len(
+                            next_row_values_date) + 2  # +2 because Google Sheets indices start from 1 and we skip the header row
+                        body_date = {
+                            'values': [[date]]
+                        }
+                        update_range_date = f"{date_flag_column}{next_row_date}:{date_flag_column}"
+                        request_date = sheet.values().update(
+                            spreadsheetId=SPREADSHEET_ID,
+                            range=update_range_date,
+                            valueInputOption='RAW',
+                            body=body_date
+                        )
+                        response_date = request_date.execute()
+
+                        print(f"Wrote description '{description}', amount '{amount}', and date '{date}' to the sheet.")
+
+                        # Add a delay between requests to avoid exceeding quota
+                        print(f"Waiting for {REQUEST_DELAY} seconds before the next request...")
+                        time.sleep(REQUEST_DELAY)
+
+        print("Data successfully written to the sheet.")
+
+    except HttpError as error:
+        print(f"An HTTP error {error.resp.status} occurred:\n{error._get_reason()}")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
 
 if __name__ == "__main__":
+    # Read the JSON file
+    with open("output5.json", "r",
+              encoding="utf-8") as json_file:
+        json_data = json.load(json_file)
     main()
