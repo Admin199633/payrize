@@ -1,5 +1,4 @@
 {
-  "expenses": [
     {
         "Description": "מוסך אוטו טוב",
         "Amount": 578,
@@ -438,5 +437,4 @@
         "Date": 12,
         "Flag": "transportation"
     }
-	]
 }
