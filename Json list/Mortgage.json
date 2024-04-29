@@ -1,5 +1,4 @@
 {
-  "expenses": [
     {
         "Description": "הלואה קרן",
         "Amount": 985,
@@ -288,5 +287,4 @@
         "Date": 12,
         "Flag": "mortgage"
     }
-	]
 }
