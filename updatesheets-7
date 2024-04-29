@@ -11,7 +11,7 @@ from googleapiclient.errors import HttpError
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/drive"]
 SPREADSHEET_ID = "1ncWrIEXjrAjC4h_hwBgzWNQvig-1ZAjF7F7k5-fxfS0"
 CLIENT_SECRETS_FILE = "C:\\Users\\LS\\Desktop\\rizeup1\\credentials.json"  # Replace with the path to your JSON file
-REQUEST_DELAY = 3  # Delay between requests in seconds
+REQUEST_DELAY = 2  # Delay between requests in seconds
 
 def main():
     """Post JSON data to a Google Sheets document."""
