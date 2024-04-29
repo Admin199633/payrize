@@ -1,0 +1,250 @@
+{
+  "expenses": [
+    {
+      "Date": 1,
+      "Description": "בית",
+      "Amount": 5000,
+      "Flag": "Home"
+    },
+    {
+      "Date": 1,
+      "Description": "ויקטורי רמת גן",
+      "Amount": 279.83,
+      "Flag": "Home"
+    },
+    {
+      "Date": 1,
+      "Description": "ווין הום ביאליק",
+      "Amount": 60,
+      "Flag": "Home"
+    },
+    {
+      "Date": 1,
+      "Description": "ויקטורי רמת גן",
+      "Amount": 166,
+      "Flag": "Home"
+    },
+    {
+      "Date": 1,
+      "Description": "מיני משתלה",
+      "Amount": 30,
+      "Flag": "Home"
+    },
+    {
+      "Date": 1,
+      "Description": "קולינאריק רמת גן",
+      "Amount": 40,
+      "Flag": "Home"
+    },
+    {
+      "Date": 1,
+      "Description": "ויקטורי רמת גן",
+      "Amount": -14,
+      "Flag": "Home"
+    },
+    {
+      "Date": 1,
+      "Description": "מן הארץ",
+      "Amount": 12,
+      "Flag": "Home"
+    },
+    {
+      "Date": 1,
+      "Description": "פלומבה",
+      "Amount": 6,
+      "Flag": "Home"
+    },
+    {
+      "Date": 1,
+      "Description": "HOT",
+      "Amount": 80,
+      "Flag": "Home"
+    },
+    {
+      "Date": 1,
+      "Description": "NETFLIX COM",
+      "Amount": 33,
+      "Flag": "Home"
+    },
+    {
+      "Date": 1,
+      "Description": "YANGO DELI",
+      "Amount": 247,
+      "Flag": "Home"
+    },
+    {
+      "Date": 2,
+      "Description": "רמי לוי - לוד",
+      "Amount": 320.74,
+      "Flag": "Home"
+    },
+    {
+      "Date": 2,
+      "Description": "ויקטורי רמת גן",
+      "Amount": 169.19,
+      "Flag": "Home"
+    },
+    {
+      "Date": 2,
+      "Description": "תחנת לחם ביאליק",
+      "Amount": 20,
+      "Flag": "Home"
+    },
+    {
+      "Date": 2,
+      "Description": "מתוק פלוס בע\"מ",
+      "Amount": 6,
+      "Flag": "Home"
+    },
+    {
+      "Date": 2,
+      "Description": "פנינת גהה",
+      "Amount": 12,
+      "Flag": "Home"
+    },
+    {
+      "Date": 2,
+      "Description": "ויקטורי רמת גן",
+      "Amount": 264.01,
+      "Flag": "Home"
+    },
+    {
+      "Date": 2,
+      "Description": "NETFLIX COM",
+      "Amount": 55,
+      "Flag": "Home"
+    },
+    {
+      "Date": 2,
+      "Description": "Hot",
+      "Amount": 78.89,
+      "Flag": "Home"
+    },
+    {
+      "Date": 3,
+      "Description": "ויקטורי רמת גן",
+      "Amount": 243.21,
+      "Flag": "Home"
+    },
+    {
+      "Date": 3,
+      "Description": "לגעת בעושר",
+      "Amount": 6.2,
+      "Flag": "Home"
+    },
+    {
+      "Date": 3,
+      "Description": "לגעת בעושר",
+      "Amount": 56,
+      "Flag": "Home"
+    },
+    {
+      "Date": 3,
+      "Description": "HOT",
+      "Amount": 78.9,
+      "Flag": "Home"
+    },
+    {
+      "Date": 3,
+      "Description": "NETFLIX COM",
+      "Amount": 54.9,
+      "Flag": "Home"
+    },
+    {
+      "Date": 3,
+      "Description": "YANGO DELI",
+      "Amount": 112,
+      "Flag": "Home"
+    },
+    {
+      "Date": 3,
+      "Description": "YANGO DELI",
+      "Amount": 224.81,
+      "Flag": "Home"
+    },
+    {
+      "Date": 4,
+      "Description": "מעדני מניה רמת גן",
+      "Amount": 85,
+      "Flag": "Home"
+    },
+    {
+      "Date": 4,
+      "Description": "מעדני מניה רמת גן",
+      "Amount": 6.23,
+      "Flag": "Home"
+    },
+    {
+      "Date": 4,
+      "Description": "מקס רמת גן",
+      "Amount": 70,
+      "Flag": "Home"
+    },
+    {
+      "Date": 4,
+      "Description": "הום שופ-צמרת",
+      "Amount": 91,
+      "Flag": "Home"
+    },
+    {
+      "Date": 4,
+      "Description": "גרין מרקט",
+      "Amount": 10,
+      "Flag": "Home"
+    },
+    {
+      "Date": 4,
+      "Description": "יריד 65 נעמן-גמא",
+      "Amount": 10,
+      "Flag": "Home"
+    },
+    {
+      "Date": 4,
+      "Description": "ויקטורי רמת גן",
+      "Amount": 615.87,
+      "Flag": "Home"
+    },
+    {
+      "Date": 4,
+      "Description": "סיטי מרקט קריניצי",
+      "Amount": 15.8,
+      "Flag": "Home"
+    },
+    {
+      "Date": 4,
+      "Description": "סופר מימון",
+      "Amount": 28.8,
+      "Flag": "Home"
+    },
+    {
+      "Date": 4,
+      "Description": "פינת השובע בית שמש",
+      "Amount": 501.31,
+      "Flag": "Home"
+    },
+    {
+      "Date": 4,
+      "Description": "HOT",
+      "Amount": 73.82,
+      "Flag": "Home"
+    },
+    {
+      "Date": 4,
+      "Description": "NETFLIX COM",
+      "Amount": 55,
+      "Flag": "Home"
+    },
+    {
+      "Date": 4,
+      "Description": "wolt",
+      "Amount": 87,
+      "Flag": "Home"
+    },
+    {
+      "Date": 4,
+      "Description": "wolt",
+      "Amount": 121,
+      "Flag": "Home"
+    }
+  ]
+}
