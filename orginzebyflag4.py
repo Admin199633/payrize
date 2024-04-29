@@ -1,74 +1,69 @@
-    import os
-    import json
-    import requests
+import os
+import json
 
-    # Define the list of JSON files with their filenames
+
+def load_json_files():
     json_files = [filename for filename in os.listdir() if filename.endswith('.json')]
-
     data = {}
-
     for file_name in json_files:
-        with open(file_name, 'rb') as file:
-            try:
-                data[file_name] = json.load(file)
-            except UnicodeDecodeError:
-                # Try reading the file with a different encoding
-                with open(file_name, 'r', encoding='cp1255') as alt_file:
-                    data[file_name] = json.load(alt_file)
+        with open(file_name, 'r', encoding='utf-8') as file:
+            data[file_name] = json.load(file)
+    return data
 
-    # Create a set of existing descriptions for faster lookup
+
+def get_existing_descriptions(data):
     existing_descriptions = set()
-    for file_name, file_data in data.items():
+    for file_data in data.values():
         for expense in file_data:
             existing_descriptions.add(expense["Description"].lower())
+    return existing_descriptions
 
-    # Load data from output.json
-    with open('output.json', 'r', encoding='utf-8') as output_file:
-        output_data = json.load(output_file)
 
-    # Categories
-    categories = ["Home", "Leisure", "Transportation", "Insurance", "Pharm", "Business", "Mortgage", "Other"]
+def assign_flag(entry, categories):
+    choice = input(
+        "Please choose a category to assign (1: Home, 2: Leisure, 3: Transportation, 4: Insurance, 5: Pharm, 6: Business, 7: Mortgage, 8: Other): ")
+    if choice.isdigit() and 1 <= int(choice) <= 8:
+        category_index = int(choice) - 1
+        flag = categories[category_index]
+        entry["Flag"] = [flag] if isinstance(entry["Flag"], str) else entry["Flag"] + [flag]
+    else:
+        print("Invalid choice! Flag remains unchanged.")
 
-    # Iterate through each entry in output.json
+
+def process_output(output_data, data, existing_descriptions, categories):
     for entry in output_data:
         description = entry["Description"].lower()
-
-        # Check if the description exists in any of the JSON files
         if description in existing_descriptions:
-            # Iterate through each JSON file
-            for file_name, file_data in data.items():
-                for expense in file_data:
-                    if expense["Description"].lower() == description:
-                        # Print the existing value
-                        print("Existing value for", description, "in", os.path.basename(file_name), ":", expense["Amount"])
-                        # Check if Flag is present in the entry and its value is null, if yes, prompt the user for input
-                        if "Flag" not in entry or entry["Flag"] is None:
-                            # Ask the user to choose a category to assign
-                            print("The Flag value is 'None' for the entry:", description)
-                            choice = input(
-                                "Please choose a category to assign (1: Home, 2: Leisure, 3: Transportation, 4: Insurance, 5: Pharm, 6: Business, 7: Mortgage, 8: Other): ")
-                            # Assign the chosen category to the Flag
-                            if choice in ["1", "2", "3", "4", "5", "6", "7", "8"]:
-                                entry["Flag"] = categories[int(choice) - 1]
-                            else:
-                                print("Invalid choice! Flag remains 'None'.")
-                        else:
-                            # Convert Flag to list if it's a string
-                            if isinstance(entry["Flag"], str):
-                                entry["Flag"] = [entry["Flag"]]
-                            # Add the flag to the entry in output.json
-                            entry["Flag"].append(categories[int(choice) - 1])
-                        break
+            for expense in data['output2.json']:
+                if expense["Description"].lower() == description:
+                    print("Existing value for", description, "in output2.json:", expense["Amount"])
+                    if entry["Flag"] == "None":
+                        print("The Flag value is 'None' for the entry:", description)
+                        assign_flag(entry, categories)
+                    break
         else:
-            # If no match found, mark Flag as null
             entry["Flag"] = None
 
-    # Capitalize the first letter of the Description if an exact match is found
+
+def main():
+    data = load_json_files()
+    existing_descriptions = get_existing_descriptions(data)
+
+    with open('output2.json', 'r', encoding='utf-8') as output_file:
+        output_data = json.load(output_file)
+
+    categories = ["Home", "Leisure", "Transportation", "Insurance", "Pharm", "Business", "Mortgage", "Other"]
+
+    process_output(output_data, data, existing_descriptions, categories)
+
     for entry in output_data:
         description = entry["Description"].lower()
         if entry["Flag"] is not None and description in existing_descriptions:
             entry["Description"] = description.capitalize()
 
-    # Write the updated data back to output.json
-    with open('output2.json', 'w', encoding='utf-8') as output_file:
+    with open('output3.json', 'w', encoding='utf-8') as output_file:
         json.dump(output_data, output_file, ensure_ascii=False, indent=4)
+
+
+if __name__ == "__main__":
+    main()
