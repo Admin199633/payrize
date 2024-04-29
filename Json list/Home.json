@@ -1,56 +1,55 @@
 {
-  "expenses": [
     {
       "Date": 1,
-      "Description": "бйъ",
+      "Description": "ГЎГ©Гє",
       "Amount": 5000,
       "Flag": "Home"
     },
     {
       "Date": 1,
-      "Description": "ейчиешй шоъ вп",
+      "Description": "ГҐГ©Г·ГЁГҐГёГ© ГёГ®Гє ГўГЇ",
       "Amount": 279.83,
       "Flag": "Home"
     },
     {
       "Date": 1,
-      "Description": "еейп ден бйамйч",
+      "Description": "ГҐГҐГ©ГЇ Г¤ГҐГ­ ГЎГ©Г Г¬Г©Г·",
       "Amount": 60,
       "Flag": "Home"
     },
     {
       "Date": 1,
-      "Description": "ейчиешй шоъ вп",
+      "Description": "ГҐГ©Г·ГЁГҐГёГ© ГёГ®Гє ГўГЇ",
       "Amount": 166,
       "Flag": "Home"
     },
     {
       "Date": 1,
-      "Description": "ойрй ощъмд",
+      "Description": "Г®Г©Г°Г© Г®Г№ГєГ¬Г¤",
       "Amount": 30,
       "Flag": "Home"
     },
     {
       "Date": 1,
-      "Description": "чемйрашйч шоъ вп",
+      "Description": "Г·ГҐГ¬Г©Г°Г ГёГ©Г· ГёГ®Гє ГўГЇ",
       "Amount": 40,
       "Flag": "Home"
     },
     {
       "Date": 1,
-      "Description": "ейчиешй шоъ вп",
+      "Description": "ГҐГ©Г·ГЁГҐГёГ© ГёГ®Гє ГўГЇ",
       "Amount": -14,
       "Flag": "Home"
     },
     {
       "Date": 1,
-      "Description": "оп дашх",
+      "Description": "Г®ГЇ Г¤Г ГёГµ",
       "Amount": 12,
       "Flag": "Home"
     },
     {
       "Date": 1,
-      "Description": "фмеобд",
+      "Description": "ГґГ¬ГҐГ®ГЎГ¤",
       "Amount": 6,
       "Flag": "Home"
     },
@@ -74,37 +73,37 @@
     },
     {
       "Date": 2,
-      "Description": "шой мей - мег",
+      "Description": "ГёГ®Г© Г¬ГҐГ© - Г¬ГҐГЈ",
       "Amount": 320.74,
       "Flag": "Home"
     },
     {
       "Date": 2,
-      "Description": "ейчиешй шоъ вп",
+      "Description": "ГҐГ©Г·ГЁГҐГёГ© ГёГ®Гє ГўГЇ",
       "Amount": 169.19,
       "Flag": "Home"
     },
     {
       "Date": 2,
-      "Description": "ъзръ мзн бйамйч",
+      "Description": "ГєГ§Г°Гє Г¬Г§Г­ ГЎГ©Г Г¬Г©Г·",
       "Amount": 20,
       "Flag": "Home"
     },
     {
       "Date": 2,
-      "Description": "оъеч фмес бт\"о",
+      "Description": "Г®ГєГҐГ· ГґГ¬ГҐГ± ГЎГІ\"Г®",
       "Amount": 6,
       "Flag": "Home"
     },
     {
       "Date": 2,
-      "Description": "фрйръ вдд",
+      "Description": "ГґГ°Г©Г°Гє ГўГ¤Г¤",
       "Amount": 12,
       "Flag": "Home"
     },
     {
       "Date": 2,
-      "Description": "ейчиешй шоъ вп",
+      "Description": "ГҐГ©Г·ГЁГҐГёГ© ГёГ®Гє ГўГЇ",
       "Amount": 264.01,
       "Flag": "Home"
     },
@@ -122,19 +121,19 @@
     },
     {
       "Date": 3,
-      "Description": "ейчиешй шоъ вп",
+      "Description": "ГҐГ©Г·ГЁГҐГёГ© ГёГ®Гє ГўГЇ",
       "Amount": 243.21,
       "Flag": "Home"
     },
     {
       "Date": 3,
-      "Description": "мвтъ бтещш",
+      "Description": "Г¬ГўГІГє ГЎГІГҐГ№Гё",
       "Amount": 6.2,
       "Flag": "Home"
     },
     {
       "Date": 3,
-      "Description": "мвтъ бтещш",
+      "Description": "Г¬ГўГІГє ГЎГІГҐГ№Гё",
       "Amount": 56,
       "Flag": "Home"
     },
@@ -164,61 +163,61 @@
     },
     {
       "Date": 4,
-      "Description": "отгрй орйд шоъ вп",
+      "Description": "Г®ГІГЈГ°Г© Г®Г°Г©Г¤ ГёГ®Гє ГўГЇ",
       "Amount": 85,
       "Flag": "Home"
     },
     {
       "Date": 4,
-      "Description": "отгрй орйд шоъ вп",
+      "Description": "Г®ГІГЈГ°Г© Г®Г°Г©Г¤ ГёГ®Гє ГўГЇ",
       "Amount": 6.23,
       "Flag": "Home"
     },
     {
       "Date": 4,
-      "Description": "очс шоъ вп",
+      "Description": "Г®Г·Г± ГёГ®Гє ГўГЇ",
       "Amount": 70,
       "Flag": "Home"
     },
     {
       "Date": 4,
-      "Description": "ден щеф-цошъ",
+      "Description": "Г¤ГҐГ­ Г№ГҐГґ-Г¶Г®ГёГє",
       "Amount": 91,
       "Flag": "Home"
     },
     {
       "Date": 4,
-      "Description": "вшйп ошчи",
+      "Description": "ГўГёГ©ГЇ Г®ГёГ·ГЁ",
       "Amount": 10,
       "Flag": "Home"
     },
     {
       "Date": 4,
-      "Description": "йшйг 65 ртоп-воа",
+      "Description": "Г©ГёГ©ГЈ 65 Г°ГІГ®ГЇ-ГўГ®Г ",
       "Amount": 10,
       "Flag": "Home"
     },
     {
       "Date": 4,
-      "Description": "ейчиешй шоъ вп",
+      "Description": "ГҐГ©Г·ГЁГҐГёГ© ГёГ®Гє ГўГЇ",
       "Amount": 615.87,
       "Flag": "Home"
     },
     {
       "Date": 4,
-      "Description": "сйий ошчи чшйрйцй",
+      "Description": "Г±Г©ГЁГ© Г®ГёГ·ГЁ Г·ГёГ©Г°Г©Г¶Г©",
       "Amount": 15.8,
       "Flag": "Home"
     },
     {
       "Date": 4,
-      "Description": "сефш ойоеп",
+      "Description": "Г±ГҐГґГё Г®Г©Г®ГҐГЇ",
       "Amount": 28.8,
       "Flag": "Home"
     },
     {
       "Date": 4,
-      "Description": "фйръ дщебт бйъ щощ",
+      "Description": "ГґГ©Г°Гє Г¤Г№ГҐГЎГІ ГЎГ©Гє Г№Г®Г№",
       "Amount": 501.31,
       "Flag": "Home"
     },
@@ -246,5 +245,4 @@
       "Amount": 121,
       "Flag": "Home"
     }
-  ]
 }
