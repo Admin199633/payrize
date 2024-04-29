@@ -1,5 +1,4 @@
 {
-  "expenses": [
     {
         "Description": "סופר פארם כופר הישוב",
         "Amount": 534,
@@ -66,5 +65,4 @@
         "Date": 12,
         "Flag": "Pharam"
     }
-	]
 }
