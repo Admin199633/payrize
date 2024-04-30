@@ -54,5 +54,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1710460800000,
+        "Description": "Par derriere",
+        "Amount": 62.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
