@@ -22,5 +22,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1710201600000,
+        "Description": "שיבולת השרון מודיעין",
+        "Amount": 10.94,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
