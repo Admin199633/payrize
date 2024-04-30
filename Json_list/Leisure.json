@@ -256,5 +256,13 @@
             "Leisure"
         ],
         "Description": "סוכריה"
+    },
+    {
+        "Date": 1710288000000,
+        "Amount": 25.0,
+        "Flag": [
+            "Leisure"
+        ],
+        "Description": "פיצה ציז מודיעין"
     }
 ]
