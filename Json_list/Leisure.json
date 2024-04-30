@@ -116,5 +116,13 @@
             "Leisure"
         ],
         "Description": "הקטן לוינסקי 46"
+    },
+    {
+        "Date": 1711065600000,
+        "Amount": 9.0,
+        "Flag": [
+            "Leisure"
+        ],
+        "Description": "השוק 7- פיצוציה"
     }
 ]
