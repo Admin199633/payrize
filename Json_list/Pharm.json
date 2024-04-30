@@ -64,5 +64,13 @@
         "Amount": 295.8,
         "Date": 12,
         "Flag": "Pharam"
+    },
+    {
+        "Date": 1710028800000,
+        "Description": "מכבידנט מודיעין עילי",
+        "Amount": 137.9,
+        "Flag": [
+            "Pharm"
+        ]
     }
 ]
