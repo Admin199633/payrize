@@ -1,6 +1,6 @@
 import os
 import json
-
+from datetime import datetime
 
 def load_json_files():
     json_files = [filename for filename in os.listdir() if filename.endswith('.json')]
@@ -10,14 +10,12 @@ def load_json_files():
             data[file_name] = json.load(file)
     return data
 
-
 def get_existing_descriptions(data):
     existing_descriptions = set()
     for file_data in data.values():
         for expense in file_data:
             existing_descriptions.add(expense["Description"].lower())
     return existing_descriptions
-
 
 def assign_flag(entry, categories):
     choice = input(
@@ -29,20 +27,24 @@ def assign_flag(entry, categories):
     else:
         print("Invalid choice! Flag remains unchanged.")
 
-
-def process_output(output_data, data, existing_descriptions, categories):
+def process_output(output_data, data, existing_descriptions, categories, target_month):
     for entry in output_data:
         description = entry["Description"].lower()
-        if description in existing_descriptions:
-            for expense in data['output2.json']:
-                if expense["Description"].lower() == description:
-                    print("Existing value for", description, "in output2.json:", expense["Amount"])
-                    if entry["Flag"] == "None":
-                        print("The Flag value is 'None' for the entry:", description)
-                        assign_flag(entry, categories)
-                    break
-        else:
-            entry["Flag"] = None
+        date_milliseconds = int(entry["Date"])  # Convert milliseconds to int
+        date_seconds = date_milliseconds / 1000  # Convert milliseconds to seconds
+        date = datetime.fromtimestamp(date_seconds)  # Convert seconds since epoch to datetime object
+        if date.month == target_month:
+            if description in existing_descriptions:
+                for expense in data['output2.json']:
+                    if expense["Description"].lower() == description:
+                        print("Existing value for", description, "in output2.json:", expense["Amount"])
+                        if entry["Flag"] == "None":
+                            print("The Flag value is 'None' for the entry:", description)
+                            assign_flag(entry, categories)
+                        break
+            else:
+                entry["Flag"] = None
+
 
 
 def main():
@@ -54,7 +56,8 @@ def main():
 
     categories = ["Home", "Leisure", "Transportation", "Insurance", "Pharm", "Business", "Mortgage", "Other"]
 
-    process_output(output_data, data, existing_descriptions, categories)
+    target_month = int(input("Enter the desired month (1-12): "))
+    process_output(output_data, data, existing_descriptions, categories, target_month)
 
     for entry in output_data:
         description = entry["Description"].lower()
@@ -63,7 +66,6 @@ def main():
 
     with open('output3.json', 'w', encoding='utf-8') as output_file:
         json.dump(output_data, output_file, ensure_ascii=False, indent=4)
-
 
 if __name__ == "__main__":
     main()
