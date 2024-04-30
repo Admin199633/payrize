@@ -252,5 +252,13 @@
             "Leisure"
         ],
         "Description": "פיצה ציז מודיעין"
+    },
+    {
+        "Date": 1710633600000,
+        "Amount": 28.0,
+        "Flag": [
+            "Leisure"
+        ],
+        "Description": "חומוס חמודות"
     }
 ]
