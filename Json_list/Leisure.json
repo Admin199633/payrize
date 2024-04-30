@@ -272,5 +272,13 @@
             "Leisure"
         ],
         "Description": "×¡×× ×× ××××××"
+    },
+    {
+        "Date": 1710288000000,
+        "Amount": 10.0,
+        "Flag": [
+            "Leisure"
+        ],
+        "Description": "×¡×××¨××"
     }
 ]
