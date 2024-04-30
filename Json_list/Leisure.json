@@ -533,5 +533,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1710633600000,
+        "Description": "חומוס חמודות",
+        "Amount": 28.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
