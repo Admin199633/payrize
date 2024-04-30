@@ -85,5 +85,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1712620800000,
+        "Description": "גו מרקט  תל אביב",
+        "Amount": 8.2,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
