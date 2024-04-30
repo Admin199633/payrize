@@ -4,5 +4,13 @@
         "Amount": 18,
         "Date": 1,
         "Flag": "leisure"
+    },
+    {
+        "Date": 1709337600000,
+        "Amount": 9.2,
+        "Flag": [
+            "Leisure"
+        ],
+        "Description": "ABC"
     }
 ]
