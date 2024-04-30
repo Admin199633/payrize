@@ -149,5 +149,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1713052800000,
+        "Description": "סופר טוב",
+        "Amount": 7.9,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
