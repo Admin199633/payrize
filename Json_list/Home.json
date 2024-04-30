@@ -1,4 +1,4 @@
-{
+[
     {
       "Date": 1,
       "Description": "áéú",
@@ -245,4 +245,4 @@
       "Amount": 121,
       "Flag": "Home"
     }
-}
+]
