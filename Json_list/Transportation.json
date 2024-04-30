@@ -436,5 +436,13 @@
         "Amount": 16,
         "Date": 12,
         "Flag": "transportation"
+    },
+    {
+        "Date": 1711065600000,
+        "Description": "צמיגי השדרה",
+        "Amount": 170.0,
+        "Flag": [
+            "Transportation"
+        ]
     }
 ]
