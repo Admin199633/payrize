@@ -316,5 +316,13 @@
             "Leisure"
         ],
         "Description": "חומוס חמודות"
+    },
+    {
+        "Date": 1711584000000,
+        "Amount": 8.0,
+        "Flag": [
+            "Leisure"
+        ],
+        "Description": "סופר מימון"
     }
 ]
