@@ -101,5 +101,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1712707200000,
+        "Description": "מידל איסט",
+        "Amount": 25,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
