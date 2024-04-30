@@ -468,5 +468,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1711152000000,
+        "Description": "סיטי מרקט  מודיעין",
+        "Amount": 8.9,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
