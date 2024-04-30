@@ -132,5 +132,13 @@
             "Leisure"
         ],
         "Description": "גרגר הזהב בעמ"
+    },
+    {
+        "Date": 1711152000000,
+        "Amount": 8.9,
+        "Flag": [
+            "Leisure"
+        ],
+        "Description": "סיטי מרקט  מודיעין"
     }
 ]
