@@ -92,5 +92,13 @@
             "Leisure"
         ],
         "Description": "חומוס חמודות"
+    },
+    {
+        "Date": 1710720000000,
+        "Amount": 19.9,
+        "Flag": [
+            "Leisure"
+        ],
+        "Description": "אי אם פי אם זבוטינסק"
     }
 ]
