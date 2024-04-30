@@ -541,5 +541,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1710720000000,
+        "Description": "אי אם פי אם זבוטינסק",
+        "Amount": 19.9,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
