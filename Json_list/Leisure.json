@@ -13,5 +13,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1712275200000,
+        "Description": "Par derriere",
+        "Amount": 90,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
