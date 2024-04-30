@@ -1,10 +1,135 @@
-[
+{
     {
-        "Date": 1711411200000,
-        "Description": "ביטוח ישיר-חיים",
-        "Amount": 33.35,
-        "Flag": [
-            "Insurance"
-        ]
+        "Description": "990 ישיר-ביטוח",
+        "Amount": 990,
+        "Date": 1,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "246 ביטוח לאומי הוראות ק",
+        "Amount": 246,
+        "Date": 1,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "750 המוסד לביטוח לאומי",
+        "Amount": 750,
+        "Date": 1,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "86 ליברה עסקאות ביטוח",
+        "Amount": 86,
+        "Date": 2,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "706.74 ווישור רכב חובה",
+        "Amount": 706.74,
+        "Date": 2,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "650 ביטוח לאומי הוראות ק",
+        "Amount": 650,
+        "Date": 2,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "41.55 ישיר ביטוח",
+        "Amount": 41.55,
+        "Date": 2,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "35 ביטוח ישיר",
+        "Amount": 35,
+        "Date": 2,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "995 ישיר ביטוח",
+        "Amount": 995,
+        "Date": 2,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "706.74 ווישור רכב חובה",
+        "Amount": 706.74,
+        "Date": 3,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "650 ביטוח לאומי הוראות ק",
+        "Amount": 650,
+        "Date": 3,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "650 ביטוח לאומי הוראות ק",
+        "Amount": 650,
+        "Date": 4,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "280 משרד הפנים רמת גן",
+        "Amount": 280,
+        "Date": 5,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "1000 עיריית רמת גן חניה (",
+        "Amount": 1000,
+        "Date": 5,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "650 ביטוח לאומי הוראות ק",
+        "Amount": 650,
+        "Date": 6,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "35.3 ביטוח ישיר-חיים",
+        "Amount": 35.3,
+        "Date": 7,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "41.55 ישיר ביטוח דירה",
+        "Amount": 41.55,
+        "Date": 7,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "77 הפניקס ביטוח",
+        "Amount": 77,
+        "Date": 7,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "35.3 ביטוח ישיר-חיים",
+        "Amount": 35.3,
+        "Date": 10,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "41.55 ישיר ביטוח דירה",
+        "Amount": 41.55,
+        "Date": 10,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "35.43 ביטוח ישיר-חיים",
+        "Amount": 35.43,
+        "Date": 11,
+        "Flag": "insurance"
+    },
+    {
+        "Description": "41.55 ישיר ביטוח דירה",
+        "Amount": 41.55,
+        "Date": 11,
+        "Flag": "insurance"
+
     }
-]
+}

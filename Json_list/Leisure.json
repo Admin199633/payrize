@@ -1,34 +1,1424 @@
-[
+{
     {
-        "Date": 1711411200000,
-        "Description": "חומוס חמודות",
-        "Amount": 28.0,
-        "Flag": [
-            "Leisure"
-        ]
+        "Description": ""טיב טעם - יהוד"",
+        "Amount": 18,
+        "Date": 1,
+        "Flag": "leisure"
     },
     {
-        "Date": 1711584000000,
+        "Description": "גולדה פארק המדע",
+        "Amount": 18,
+        "Date": 1,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "רגע לפלאפל",
+        "Amount": 14,
+        "Date": 1,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "בלאק קפה גלובאל פארק",
+        "Amount": 34,
+        "Date": 1,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "טורטיה בר-רמלה",
+        "Amount": 146,
+        "Date": 1,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "PAR DERRIERE",
+        "Amount": 80,
+        "Date": 1,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "בלאק קפה גלובאל פארק",
+        "Amount": 34,
+        "Date": 1,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "רגע לפלאפל",
+        "Amount": 14,
+        "Date": 1,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "דלק קמעונאות רמה",
+        "Amount": 12,
+        "Date": 1,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "פז אפליקצית-YELLOW",
+        "Amount": 17,
+        "Date": 1,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "פז אפליקצית-YELLOW",
+        "Amount": 8.5,
+        "Date": 1,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "מהרגה",
+        "Amount": 50,
+        "Date": 1,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "סגה",
+        "Amount": 30,
+        "Date": 1,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "דוכן כשר טרמינל",
+        "Amount": 15,
+        "Date": 2,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "מש - קר בע\"מ",
+        "Amount": 10.7,
+        "Date": 2,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "PAR DERRIERE",
+        "Amount": 125,
+        "Date": 2,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "בלאק קפה גלובאל פארק",
+        "Amount": 34,
+        "Date": 2,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "קפה לנדוור השחם, פ\"ת",
+        "Amount": 14,
+        "Date": 2,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "דואלי מכונות אוטומטי",
+        "Amount": 7,
+        "Date": 2,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "שמבזולה בע\"מ",
+        "Amount": 190,
+        "Date": 2,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "חן הוצלא",
+        "Amount": 70,
+        "Date": 2,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "דבורי",
+        "Amount": 28,
+        "Date": 2,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "WOLT",
+        "Amount": 232,
+        "Date": 2,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "שלמה ודורון",
+        "Amount": 44,
+        "Date": 2,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "וולנס בר תל אביב",
+        "Amount": 32,
+        "Date": 2,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "סופר אלונית לוד",
+        "Amount": 8.9,
+        "Date": 3,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "מסעדת איברהים",
+        "Amount": 13,
+        "Date": 3,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "סונול אור בגבעה",
+        "Amount": 11,
+        "Date": 3,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "כל בו דידרניק חומרי",
+        "Amount": 13,
+        "Date": 3,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "פנינת הים",
+        "Amount": 18,
+        "Date": 3,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "מרגוזה",
+        "Amount": 40,
+        "Date": 3,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "לגעת בעושר",
+        "Amount": 6.2,
+        "Date": 3,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "לגעת בעושר",
+        "Amount": 3,
+        "Date": 3,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "PAR DERRIERE",
+        "Amount": 70,
+        "Date": 3,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "איזי 2 גיב",
+        "Amount": 12.32,
+        "Date": 3,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "אייר קפה",
+        "Amount": 90,
+        "Date": 4,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "רגע לפלאפל",
+        "Amount": 14,
+        "Date": 4,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "אי.אם.פי.אם בן יהודה",
+        "Amount": 35.7,
+        "Date": 4,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "פלומבה",
+        "Amount": 14,
+        "Date": 4,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "הגג של יפו - בר",
+        "Amount": 50,
+        "Date": 4,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "טיב טעם רשתות- פרישמ",
+        "Amount": 37.7,
+        "Date": 4,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "בראנץ' קייטרינג",
+        "Amount": 25,
+        "Date": 4,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "י.ע.ע. קפה 443 בע\"מ",
+        "Amount": 36,
+        "Date": 4,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "ארומה אופרה",
+        "Amount": 16,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "רד מרקט הרצליה",
+        "Amount": 9,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "וודו בר",
+        "Amount": 70,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "סביח פרישמן מודיעין",
+        "Amount": 17,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "צוק דרום",
+        "Amount": 65,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "TAXI COFFE-גמא",
+        "Amount": 20,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "PM:AM ארלוזורוב ר\"ג",
+        "Amount": 5.9,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "סופר אקספרס",
+        "Amount": 8.9,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "מלכה מרקט",
+        "Amount": 13.8,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "פז אפליקצית-YELLOW",
+        "Amount": 9.1,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "מתוקים",
+        "Amount": 15,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "דלק מנטה ארז מודיעין",
+        "Amount": 14.5,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "רון ביט",
+        "Amount": 50,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "מתוקים",
+        "Amount": 10,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
         "Description": "סופר מימון",
-        "Amount": 8.0,
-        "Flag": [
-            "Leisure"
-        ]
+        "Amount": 26.2,
+        "Date": 5,
+        "Flag": "leisure"
     },
     {
-        "Date": 1711756800000,
-        "Description": "פיצה ציז מודיעין",
-        "Amount": 25.0,
-        "Flag": [
-            "Leisure"
-        ]
+        "Description": "פז אפליקצית-YELLOW",
+        "Amount": 7.9,
+        "Date": 5,
+        "Flag": "leisure"
     },
     {
-        "Date": 1711843200000,
-        "Description": "סופר אלונית -אלון המ",
+        "Description": "סופר מימון",
+        "Amount": 31.8,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "העברה בBIT",
+        "Amount": 50,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "העברה בBIT - ספיר",
+        "Amount": 135,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "קפה אדלה- הולמס פליי",
+        "Amount": 25,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "תדר פיצה",
+        "Amount": 15,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "ייקב פינטו",
+        "Amount": 20,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "סיטי מרקט מודיעין סנ",
+        "Amount": 7.9,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "מקדונלדס פארק הקרח 2",
+        "Amount": 65,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "מסעדת פרגנה",
+        "Amount": 100,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "סופר אלונית -דור שגב",
         "Amount": 9.9,
-        "Flag": [
-            "Leisure"
-        ]
-    }
-]
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "העברה בBIT",
+        "Amount": 100,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "הקילומטר 101 בעמ",
+        "Amount": 32,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "סופר אלונית -אלון דב",
+        "Amount": 16.1,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "שופרסל שלי גבעתיים",
+        "Amount": 7.3,
+        "Date": 5,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "דלק מנטה יד בנימין",
+        "Amount": 9.9,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "סופר מימון",
+        "Amount": 21.7,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "איוונטר כרטיסים בע\"מ",
+        "Amount": 90,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "תדר פיצה",
+        "Amount": 140,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "איוונטר כרטיסים בע\"מ",
+        "Amount": 90,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "סופר מימון",
+        "Amount": 11,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "slippers",
+        "Amount": 70,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "מתוקים",
+        "Amount": 10,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "רון ביט",
+        "Amount": 40,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "בלאק קפה גלובאל פארק",
+        "Amount": 34,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "מפגש מנדלי",
+        "Amount": 14,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "אחוזת החוף מפעל הפיס",
+        "Amount": 28,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "פלאפל סוזן",
+        "Amount": 44,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "ערן שוורצברד",
+        "Amount": 14,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "הוצלא",
+        "Amount": 60,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "אלונית עטרות",
+        "Amount": 9.9,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "מקדולנדס רוטשילד ת\"א",
+        "Amount": 38,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "מינימרקט קגן",
+        "Amount": 69,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "בצלאל מרקט",
+        "Amount": 8.9,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "ספוטניק",
+        "Amount": 136,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "ספוטניק",
+        "Amount": 100,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "מקדולנדס רוטשילד ת\"א",
+        "Amount": 38,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "בצלאל מרקט",
+        "Amount": 17,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "אלונית עטרות",
+        "Amount": 9.9,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "מינימרקט קגן",
+        "Amount": 69,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "פז אפליקצית-YELLOW",
+        "Amount": 13,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "מקדונלדס רוטשילד ת\"א",
+        "Amount": 40,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "ספוטניק",
+        "Amount": 30,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "ספוטניק",
+        "Amount": 33,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "וויטל טרמינל 21 בע\"מ",
+        "Amount": 8,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "שליחת פרחים",
+        "Amount": 50,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+    {
+        "Description": "סיליקון וואלי ת\"א",
+        "Amount": 10.5,
+        "Date": 6,
+        "Flag": "leisure"
+    },
+	{
+"Description": "קואצ' ספורט בר חולון",
+"Amount": 115,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "רק היום",
+"Amount": 13.62,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "רק היום",
+"Amount": 16.9,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "PAR DERRIERE",
+"Amount": 75,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "ספוטניק",
+"Amount": 138,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "מקדונלדס רוטשילד ת",
+"Amount": 17,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "פיצוצית מלרז",
+"Amount": 62,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "ארומה חצרות יפו",
+"Amount": 19,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "EMESH צמרת",
+"Amount": 130,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "פלאפל סוזן",
+"Amount": 44,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "מועדון לינקולן",
+"Amount": 160,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "סופר אלונית לוד",
+"Amount": 8.2,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "י.ע.ע. קפה 443 בע",
+"Amount": 60,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "פלאפל סוזן",
+"Amount": 44,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "בירה נקודה",
+"Amount": 58,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "GOLD&BALL",
+"Amount": 179,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "סופר אלונית לוד",
+"Amount": 4.9,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "שוק פלורנטין בעמ",
+"Amount": 15,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "פז YELLOW זיו און",
+"Amount": 16.4,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "גרין מרקט",
+"Amount": 10,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "דלק מנטה יזראמקס",
+"Amount": 8.5,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "שופרסל דיל יכין",
+"Amount": 16,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "העברה בBIT",
+"Amount": 16,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "קפה רומנו",
+"Amount": 120,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "דואלי מכונות אוטומטי",
+"Amount": 12.9,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "פלאפל סוזן",
+"Amount": 18,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "wolt",
+"Amount": 119,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "העברה בBIT",
+"Amount": 100,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "העברה בBIT",
+"Amount": 125,
+"Date": 7,
+"Flag": "leisure"
+},
+{
+"Description": "פלאפל ג'ינה שוקן",
+"Amount": 47,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "עידן חדש",
+"Amount": 32,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "חן מרקט",
+"Amount": 20.2,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "דלק מנטה יורמלובסקי",
+"Amount": 10.5,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "אברך סחר -BTW תחנת",
+"Amount": 18,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "חוף הים",
+"Amount": 25,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "מזור",
+"Amount": 40,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "סופר אלונית לוד",
+"Amount": 9.9,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "בלאק קפה גלובאל פארק",
+"Amount": 36,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "פלאפל סוזן",
+"Amount": 50,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "PAR DERRIERE",
+"Amount": 75,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "סופר פארם מרינה 110",
+"Amount": 43.7,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "בלאק קפה גלובאל פארק",
+"Amount": 8,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "שיר הולא",
+"Amount": 90,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "זיסו",
+"Amount": 85,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "תדר פיצה",
+"Amount": 80,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "MENDA BAR",
+"Amount": 110,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "תפוז סגולה",
+"Amount": 8.9,
+"Date": 8,
+"Flag": "leisure"
+},
+{
+"Description": "שמבזולה בע",
+"Amount": 235,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "אלונית אביב - דרך נמ",
+"Amount": 6.9,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "קפה קפה G",
+"Amount": 9,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "מתוק ש מ בעמ",
+"Amount": 26,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "ב. פרש אילת",
+"Amount": 29,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "פינות קפה רמון בע",
+"Amount": 24,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "בלאק קפה גלובאל פארק",
+"Amount": 16,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "חומוס אליהו לוד",
+"Amount": 36,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "בלאק קפה גלובאל פארק",
+"Amount": 28,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "הצרכניה שלי",
+"Amount": 17.9,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "PAR DERRIERE",
+"Amount": 70,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "WOLT",
+"Amount": 59,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "סיטי מרקט מודיעין סנ",
+"Amount": 13.9,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "מני מרקט יוסי-גמא",
+"Amount": 7.5,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "עופר פלאפל בעמ",
+"Amount": 25,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "דלק מנטה יהוד",
+"Amount": 10.5,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "WOLT",
+"Amount": 71,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "פז אפליקצית-YELLOW",
+"Amount": 10,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "פז אפליקצית-YELLOW",
+"Amount": 11.9,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "פז אפליקצית-YELLOW",
+"Amount": 14.9,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "פיצה בטטה",
+"Amount": 14,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "אי אם פי אם שד' ירוש",
+"Amount": 24.4,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "דלק מנטה ארז מודיעין",
+"Amount": 21.62,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "סופר אלונית לוד",
+"Amount": 9.9,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "בלאק קפה גלובאל פארק",
+"Amount": 36,
+"Date": 9,
+"Flag": "leisure"
+},
+{
+"Description": "מקדונלדס מודיעין",
+"Amount": 18,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "הפיצוחייה",
+"Amount": 20,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "וודו בר",
+"Amount": 100,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "CARREFOUR ויצמן ת\"",
+"Amount": 38.1,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "מפגש גיבור",
+"Amount": 52.9,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "סונול מול החוף",
+"Amount": 14.9,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "סונול מול החוף",
+"Amount": 28.4,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "ארקפה ראשונים",
+"Amount": 19,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "פלאפל נחום",
+"Amount": 22,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "גולד מרקט",
+"Amount": 10,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "שיבולת השרון מודיעין",
+"Amount": 24,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "סופר ירושלים",
+"Amount": 8,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "בנק לאומי IVE SENSES",
+"Amount": 30.1,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "סופר מימון",
+"Amount": 76,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "סוכריה",
+"Amount": 20,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "פיצה פרגו",
+"Amount": 92,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "בנק לאומי IVE SENSES",
+"Amount": 36.3,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "שיר הוצלא",
+"Amount": 75,
+"Date": 10,
+"Flag": "leisure"
+},
+{
+"Description": "סופר אלונית לוד",
+"Amount": 9.9,
+"Date": 11,
+"Flag": "leisure"
+},
+{
+"Description": "שוק הפיצוחים ביאליק",
+"Amount": 53,
+"Date": 11,
+"Flag": "leisure"
+},
+{
+"Description": "חומוס אליהו לוד",
+"Amount": 45,
+"Date": 11,
+"Flag": "leisure"
+},
+{
+"Description": "מתוקים",
+"Amount": 36.8,
+"Date": 11,
+"Flag": "leisure"
+},
+{
+"Description": "אינגליש קייק מודיעין",
+"Amount": 65,
+"Date": 11,
+"Flag": "leisure"
+},
+{
+"Description": "בראשית",
+"Amount": 37,
+"Date": 11,
+"Flag": "leisure"
+},
+{
+"Description": "תדר פיצה",
+"Amount": 100,
+"Date": 11,
+"Flag": "leisure"
+},
+{
+"Description": "סופר מימון",
+"Amount": 8,
+"Date": 11,
+"Flag": "leisure"
+},
+{
+"Description": "אגסי גריל בר",
+"Amount": 41,
+"Date": 11,
+"Flag": "leisure"
+},
+{
+"Description": "מתוקים",
+"Amount": 10,
+"Date": 11,
+"Flag": "leisure"
+},
+{
+"Description": "שוק הפיצוחים ביאליק",
+"Amount": 8,
+"Date": 11,
+"Flag": "leisure"
+},
+{
+    "Description": "שוק הפיצוחים ביאליק",
+    "Amount": 31,
+    "Date": 11,
+    "Flag": "leisure"
+},
+{
+    "Description": "פז אפליקצית-YELLOW",
+    "Amount": 50,
+    "Date": 11,
+    "Flag": "leisure"
+},
+{
+    "Description": "סופר אלונית -אלון המ",
+    "Amount": 9.9,
+    "Date": 11,
+    "Flag": "leisure"
+},
+{
+    "Description": "בלאק קפה גלובאל פארק",
+    "Amount": 36,
+    "Date": 11,
+    "Flag": "leisure"
+},
+{
+    "Description": "סופר אלונית -אלון המ",
+    "Amount": 21.9,
+    "Date": 11,
+    "Flag": "leisure"
+},
+{
+    "Description": "מיקה גן הפעמון",
+    "Amount": 19.9,
+    "Date": 11,
+    "Flag": "leisure"
+},
+{
+    "Description": "ויקטורי יהודה הלוי",
+    "Amount": 9,
+    "Date": 11,
+    "Flag": "leisure"
+},
+{
+    "Description": "סופר מימון",
+    "Amount": 10,
+    "Date": 11,
+    "Flag": "leisure"
+},
+{
+    "Description": "תעשיות שווארמה טורק",
+    "Amount": 25,
+    "Date": 11,
+    "Flag": "leisure"
+},
+{
+    "Description": "קוקיס מרקט פור יו בע",
+    "Amount": 54.9,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "סופר אמונה וברכה",
+    "Amount": 75,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "סיטי מרקט ולנטינו חו",
+    "Amount": 13.8,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "שוק הכיכר",
+    "Amount": 14.9,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "שוק הכיכר",
+    "Amount": 17.9,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "סופר אלונית -אלון המ",
+    "Amount": 21.9,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "חומוס חמודות",
+    "Amount": 28,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "דלק מנטה רוקח מס תחנ",
+    "Amount": 14.5,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "תדר פיצה",
+    "Amount": 70,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "דואלי מכונות אוטומטי",
+    "Amount": 4.5,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "דואלי מכונות אוטומטי",
+    "Amount": 4.5,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "הקצב והמנגל",
+    "Amount": 35,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "מקדונלדס מודיעין",
+    "Amount": 18,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "עופר פלאפל בעמ",
+    "Amount": 25,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "הפיצוחייה",
+    "Amount": 56,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "פיצוצית מלרז",
+    "Amount": 20,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "סופר אלונית -אלון המ",
+    "Amount": 8.5,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "גולד מרקט",
+    "Amount": 10,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "AMPM",
+    "Amount": 50,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "פיצה",
+    "Amount": 100,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "קסטה בפארק המסילה",
+    "Amount": 58,
+    "Date": 12,
+    "Flag": "leisure"
+},
+{
+    "Description": "הולמס פלייס מודיעין",
+    "Amount": 1666666,
+    "Date": 12,
+    "Flag": "leisure"
+	}
+}
