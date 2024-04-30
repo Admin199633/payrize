@@ -340,5 +340,13 @@
             "Leisure"
         ],
         "Description": "סופר אלונית -אלון המ"
+    },
+    {
+        "Date": 1709337600000,
+        "Description": "Lior",
+        "Amount": 8.2,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
