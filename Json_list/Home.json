@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "Date": 1712016000000,
+        "Description": "Max",
+        "Amount": 89.7,
+        "Flag": [
+            "Home"
+        ]
+    }
+]
