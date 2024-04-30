@@ -64,5 +64,13 @@
             "Leisure"
         ],
         "Description": "ABC"
+    },
+    {
+        "Date": 1709337600000,
+        "Amount": 9.2,
+        "Flag": [
+            "Leisure"
+        ],
+        "Description": "ABC"
     }
 ]
