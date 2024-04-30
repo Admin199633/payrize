@@ -70,5 +70,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1711065600000,
+        "Description": "השוק 7- פיצוציה",
+        "Amount": 9.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
