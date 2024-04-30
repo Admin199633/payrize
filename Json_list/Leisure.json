@@ -100,5 +100,13 @@
             "Leisure"
         ],
         "Description": "אי אם פי אם זבוטינסק"
+    },
+    {
+        "Date": 1710892800000,
+        "Amount": 25.0,
+        "Flag": [
+            "Leisure"
+        ],
+        "Description": "פיצה ציז מודיעין"
     }
 ]
