@@ -557,5 +557,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1711065600000,
+        "Description": "הקטן לוינסקי 46",
+        "Amount": 60.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
