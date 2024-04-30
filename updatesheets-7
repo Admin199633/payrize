@@ -13,6 +13,22 @@ SPREADSHEET_ID = "1ncWrIEXjrAjC4h_hwBgzWNQvig-1ZAjF7F7k5-fxfS0"
 CLIENT_SECRETS_FILE = "C:\\Users\\LS\\Desktop\\rizeup1\\credentials.json"  # Replace with the path to your JSON file
 REQUEST_DELAY = 2  # Delay between requests in seconds
 
+def find_next_empty_row(sheet, flag_column):
+    """
+    Find the next empty row in the specified column.
+    """
+    range_ = f"{flag_column}2:{flag_column}"  # Start from the second row
+    result = sheet.values().get(
+        spreadsheetId=SPREADSHEET_ID,
+        range=range_
+    ).execute()
+    values = result.get('values', [])
+
+    if not values:
+        return 2  # If the column is completely empty, return the second row
+    else:
+        return len(values) + 2  # Return the next empty row
+
 def main():
     """Post JSON data to a Google Sheets document."""
     creds = None
@@ -48,6 +64,9 @@ def main():
                 flag_column = chr(65 + i)  # Column letter (A-Z)
                 flag = column.strip()  # Remove any leading/trailing whitespaces
 
+                # Find the next empty row in the column
+                next_row = find_next_empty_row(sheet, flag_column)
+
                 # Iterate over each entry in json_data
                 for entry in json_data:
                     entry_flags = entry.get('Flag', [])
@@ -59,21 +78,11 @@ def main():
                         # Convert timestamp to datetime object
                         date = datetime.fromtimestamp(date_timestamp / 1000.0).strftime('%Y-%m-%d')
 
-                        # Find the next empty row in the column for description
-                        next_row_range = f"{flag_column}2:{flag_column}"
-                        next_row_result = sheet.values().get(
-                            spreadsheetId=SPREADSHEET_ID,
-                            range=next_row_range
-                        ).execute()
-                        next_row_values = next_row_result.get('values', [])
-
-                        # Write the description to the next empty row
-                        next_row = len(
-                            next_row_values) + 2  # +2 because Google Sheets indices start from 1 and we skip the header row
+                        # Write the data to the next empty row
                         body = {
-                            'values': [[description]]
+                            'values': [[description, amount, date]]
                         }
-                        update_range = f"{flag_column}{next_row}:{flag_column}"
+                        update_range = f"{flag_column}{next_row}:{chr(65 + i + 2)}{next_row}"  # Dynamically calculate the last column
                         request = sheet.values().update(
                             spreadsheetId=SPREADSHEET_ID,
                             range=update_range,
@@ -82,55 +91,10 @@ def main():
                         )
                         response = request.execute()
 
-                        # Find the next empty row in the column for amount
-                        amount_flag_column = chr(65 + i + 1)  # Next column letter (A-Z)
-                        next_row_range_amount = f"{amount_flag_column}2:{amount_flag_column}"
-                        next_row_result_amount = sheet.values().get(
-                            spreadsheetId=SPREADSHEET_ID,
-                            range=next_row_range_amount
-                        ).execute()
-                        next_row_values_amount = next_row_result_amount.get('values', [])
-
-                        # Write the amount to the next empty row
-                        next_row_amount = len(
-                            next_row_values_amount) + 2  # +2 because Google Sheets indices start from 1 and we skip the header row
-                        body_amount = {
-                            'values': [[amount]]
-                        }
-                        update_range_amount = f"{amount_flag_column}{next_row_amount}:{amount_flag_column}"
-                        request_amount = sheet.values().update(
-                            spreadsheetId=SPREADSHEET_ID,
-                            range=update_range_amount,
-                            valueInputOption='RAW',
-                            body=body_amount
-                        )
-                        response_amount = request_amount.execute()
-
-                        # Find the next empty row in the column for date
-                        date_flag_column = chr(65 + i + 2)  # Next column letter (A-Z)
-                        next_row_range_date = f"{date_flag_column}2:{date_flag_column}"
-                        next_row_result_date = sheet.values().get(
-                            spreadsheetId=SPREADSHEET_ID,
-                            range=next_row_range_date
-                        ).execute()
-                        next_row_values_date = next_row_result_date.get('values', [])
-
-                        # Write the date to the next empty row
-                        next_row_date = len(
-                            next_row_values_date) + 2  # +2 because Google Sheets indices start from 1 and we skip the header row
-                        body_date = {
-                            'values': [[date]]
-                        }
-                        update_range_date = f"{date_flag_column}{next_row_date}:{date_flag_column}"
-                        request_date = sheet.values().update(
-                            spreadsheetId=SPREADSHEET_ID,
-                            range=update_range_date,
-                            valueInputOption='RAW',
-                            body=body_date
-                        )
-                        response_date = request_date.execute()
-
                         print(f"Wrote description '{description}', amount '{amount}', and date '{date}' to the sheet.")
+
+                        # Increment next_row for the next entry
+                        next_row += 1
 
                         # Add a delay between requests to avoid exceeding quota
                         print(f"Waiting for {REQUEST_DELAY} seconds before the next request...")
