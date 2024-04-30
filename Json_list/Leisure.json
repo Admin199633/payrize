@@ -261,5 +261,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1711929600000,
+        "Description": "פיצה ציז מודיעין",
+        "Amount": 25,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
