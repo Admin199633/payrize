@@ -332,5 +332,13 @@
             "Leisure"
         ],
         "Description": "פיצה ציז מודיעין"
+    },
+    {
+        "Date": 1711843200000,
+        "Amount": 9.9,
+        "Flag": [
+            "Leisure"
+        ],
+        "Description": "סופר אלונית -אלון המ"
     }
 ]
