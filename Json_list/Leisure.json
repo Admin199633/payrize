@@ -573,5 +573,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1711065600000,
+        "Description": "גרגר הזהב בעמ",
+        "Amount": 80.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
