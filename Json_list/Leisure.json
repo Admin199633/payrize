@@ -108,5 +108,13 @@
             "Leisure"
         ],
         "Description": "פיצה ציז מודיעין"
+    },
+    {
+        "Date": 1711065600000,
+        "Amount": 60.0,
+        "Flag": [
+            "Leisure"
+        ],
+        "Description": "הקטן לוינסקי 46"
     }
 ]
