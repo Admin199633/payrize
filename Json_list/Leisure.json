@@ -292,5 +292,13 @@
             "Leisure"
         ],
         "Description": "השוק 7- פיצוציה"
+    },
+    {
+        "Date": 1711065600000,
+        "Amount": 80.0,
+        "Flag": [
+            "Leisure"
+        ],
+        "Description": "גרגר הזהב בעמ"
     }
 ]
