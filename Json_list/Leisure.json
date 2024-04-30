@@ -613,5 +613,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1711843200000,
+        "Description": "סופר אלונית -אלון המ",
+        "Amount": 9.9,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
