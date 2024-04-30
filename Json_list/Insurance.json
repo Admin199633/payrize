@@ -130,6 +130,13 @@
         "Amount": 41.55,
         "Date": 11,
         "Flag": "insurance"
-
+    },
+    {
+        "Date": 1711411200000,
+        "Description": "ביטוח ישיר-חיים",
+        "Amount": 33.35,
+        "Flag": [
+            "Insurance"
+        ]
     }
 ]
