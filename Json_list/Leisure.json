@@ -157,5 +157,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1713139200000,
+        "Description": "סונול מהפך צומת שמשו",
+        "Amount": 7.9,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
