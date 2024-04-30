@@ -12,5 +12,13 @@
             "Leisure"
         ],
         "Description": "טיב טעם - יהוד"
+    },
+    {
+        "Date": 1709683200000,
+        "Amount": 28.0,
+        "Flag": [
+            "Leisure"
+        ],
+        "Description": "חומוס חמודות"
     }
 ]
