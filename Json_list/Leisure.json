@@ -216,5 +216,13 @@
             "Leisure"
         ],
         "Description": "ABC"
+    },
+    {
+        "Date": 1709683200000,
+        "Amount": 28.0,
+        "Flag": [
+            "Leisure"
+        ],
+        "Description": "חומוס ssssss"
     }
 ]
