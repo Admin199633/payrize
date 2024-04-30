@@ -196,5 +196,13 @@
             "Leisure"
         ],
         "Description": "אי אם פי אם זבוטינסק"
+    },
+    {
+        "Date": 1710201600000,
+        "Amount": 10.94,
+        "Flag": [
+            "Leisure"
+        ],
+        "Description": "שיבולת השרון מודיעין"
     }
 ]
