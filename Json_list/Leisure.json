@@ -324,5 +324,13 @@
             "Leisure"
         ],
         "Description": "סופר מימון"
+    },
+    {
+        "Date": 1711756800000,
+        "Amount": 25.0,
+        "Flag": [
+            "Leisure"
+        ],
+        "Description": "פיצה ציז מודיעין"
     }
 ]
