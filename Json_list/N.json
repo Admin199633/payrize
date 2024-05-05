@@ -4,5 +4,11 @@
         "Description": "פז אפליקצית-yellow",
         "Amount": 10,
         "Flag": "None"
+    },
+    {
+        "Date": 1708473600000,
+        "Description": "פרופיט מודיעין-רגיל",
+        "Amount": -300,
+        "Flag": "None"
     }
 ]
