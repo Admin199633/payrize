@@ -10,5 +10,11 @@
         "Description": "פרופיט מודיעין-רגיל",
         "Amount": -300,
         "Flag": "None"
+    },
+    {
+        "Date": 1709078400000,
+        "Description": "01/03/2024",
+        "Amount": "BIRD  PENDING BIRD C",
+        "Flag": "None"
     }
 ]
