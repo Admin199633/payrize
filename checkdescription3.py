@@ -5,14 +5,15 @@ import requests
 
 # Define the URL of the raw JSON files on GitHub
 github_urls = [
-    "https://raw.githubusercontent.com/Admin199633/payrize/main/Json%20list/home.json",
-    "https://raw.githubusercontent.com/Admin199633/payrize/main/Json%20list/leisure.json",
-    "https://raw.githubusercontent.com/Admin199633/payrize/main/Json%20list/transportation.json",
-    "https://raw.githubusercontent.com/Admin199633/payrize/main/Json%20list/insurance.json",
-    "https://raw.githubusercontent.com/Admin199633/payrize/main/Json%20list/Pharm.json",
-    "https://raw.githubusercontent.com/Admin199633/payrize/main/Json%20list/Business.json",
-    "https://raw.githubusercontent.com/Admin199633/payrize/main/Json%20list/mortgage.json",
-    "https://raw.githubusercontent.com/Admin199633/payrize/main/Json%20list/Other.json"
+    "https://raw.githubusercontent.com/Admin199633/payrize/main/Json_list/Home.json",
+    "https://raw.githubusercontent.com/Admin199633/payrize/main/Json_list/Insurance.json",
+    "https://raw.githubusercontent.com/Admin199633/payrize/main/Json_list/Leisure.json",
+    "https://raw.githubusercontent.com/Admin199633/payrize/main/Json_list/Mortgage.json",
+    "https://raw.githubusercontent.com/Admin199633/payrize/main/Json_list/Other.json",
+    "https://raw.githubusercontent.com/Admin199633/payrize/main/Json_list/Transportation.json",
+    "https://raw.githubusercontent.com/Admin199633/payrize/main/Json_list/Pharm.json"
+    "https://raw.githubusercontent.com/Admin199633/payrize/main/Json_list/Business.json",
+
 ]
 
 data = {}
