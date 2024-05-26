@@ -1,7 +1,7 @@
 [
     {
         "Date": 1709337600000,
-        "Description": "טיב טעם - יהוד",
+        "Description": "\u05d8\u05d9\u05d1 \u05d8\u05e2\u05dd - \u05d9\u05d4\u05d5\u05d3",
         "Amount": 8.2,
         "Flag": [
             "Leisure"
@@ -9,7 +9,7 @@
     },
     {
         "Date": 1709683200000,
-        "Description": "חומוס חמודות",
+        "Description": "\u05d7\u05d5\u05de\u05d5\u05e1 \u05d7\u05de\u05d5\u05d3\u05d5\u05ea",
         "Amount": 28.0,
         "Flag": [
             "Leisure"
@@ -17,7 +17,7 @@
     },
     {
         "Date": 1710201600000,
-        "Description": "אי אם פי אם זבוטינסק",
+        "Description": "\u05d0\u05d9 \u05d0\u05dd \u05e4\u05d9 \u05d0\u05dd \u05d6\u05d1\u05d5\u05d8\u05d9\u05e0\u05e1\u05e7",
         "Amount": 39.91,
         "Flag": [
             "Leisure"
@@ -25,7 +25,7 @@
     },
     {
         "Date": 1710201600000,
-        "Description": "שיבולת השרון מודיעין",
+        "Description": "\u05e9\u05d9\u05d1\u05d5\u05dc\u05ea \u05d4\u05e9\u05e8\u05d5\u05df \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
         "Amount": 10.94,
         "Flag": [
             "Leisure"
@@ -33,7 +33,7 @@
     },
     {
         "Date": 1710288000000,
-        "Description": "סונול המכבים",
+        "Description": "\u05e1\u05d5\u05e0\u05d5\u05dc \u05d4\u05de\u05db\u05d1\u05d9\u05dd",
         "Amount": 9.5,
         "Flag": [
             "Leisure"
@@ -41,7 +41,7 @@
     },
     {
         "Date": 1710288000000,
-        "Description": "סוכריה",
+        "Description": "\u05e1\u05d5\u05db\u05e8\u05d9\u05d4",
         "Amount": 10.0,
         "Flag": [
             "Leisure"
@@ -49,7 +49,7 @@
     },
     {
         "Date": 1710288000000,
-        "Description": "פיצה ציז מודיעין",
+        "Description": "\u05e4\u05d9\u05e6\u05d4 \u05e6\u05d9\u05d6 \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
         "Amount": 25.0,
         "Flag": [
             "Leisure"
@@ -65,7 +65,7 @@
     },
     {
         "Date": 1711065600000,
-        "Description": "הקטן לוינסקי 46",
+        "Description": "\u05d4\u05e7\u05d8\u05df \u05dc\u05d5\u05d9\u05e0\u05e1\u05e7\u05d9 46",
         "Amount": 60.0,
         "Flag": [
             "Leisure"
@@ -73,7 +73,7 @@
     },
     {
         "Date": 1711065600000,
-        "Description": "השוק 7- פיצוציה",
+        "Description": "\u05d4\u05e9\u05d5\u05e7 7- \u05e4\u05d9\u05e6\u05d5\u05e6\u05d9\u05d4",
         "Amount": 9.0,
         "Flag": [
             "Leisure"
@@ -81,7 +81,7 @@
     },
     {
         "Date": 1711065600000,
-        "Description": "גרגר הזהב בעמ",
+        "Description": "\u05d2\u05e8\u05d2\u05e8 \u05d4\u05d6\u05d4\u05d1 \u05d1\u05e2\u05de",
         "Amount": 80.0,
         "Flag": [
             "Leisure"
@@ -89,7 +89,7 @@
     },
     {
         "Date": 1711152000000,
-        "Description": "סיטי מרקט  מודיעין",
+        "Description": "\u05e1\u05d9\u05d8\u05d9 \u05de\u05e8\u05e7\u05d8  \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
         "Amount": 8.9,
         "Flag": [
             "Leisure"
@@ -97,7 +97,7 @@
     },
     {
         "Date": 1711584000000,
-        "Description": "סופר מימון",
+        "Description": "\u05e1\u05d5\u05e4\u05e8 \u05de\u05d9\u05de\u05d5\u05df",
         "Amount": 8.0,
         "Flag": [
             "Leisure"
@@ -105,7 +105,7 @@
     },
     {
         "Date": 1711843200000,
-        "Description": "סופר אלונית -אלון המ",
+        "Description": "\u05e1\u05d5\u05e4\u05e8 \u05d0\u05dc\u05d5\u05e0\u05d9\u05ea -\u05d0\u05dc\u05d5\u05df \u05d4\u05de",
         "Amount": 9.9,
         "Flag": [
             "Leisure"
@@ -113,8 +113,16 @@
     },
     {
         "Date": 1709856000000,
-        "Description": "פז אפליקצית-yellow",
+        "Description": "\u05e4\u05d6 \u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05ea-yellow",
         "Amount": 214.57,
+        "Flag": [
+            "Leisure"
+        ]
+    },
+    {
+        "Date": 1714694400000,
+        "Description": "\u05ea\u05d3\u05e8 \u05e4\u05d9\u05e6\u05d4",
+        "Amount": 80.0,
         "Flag": [
             "Leisure"
         ]
