@@ -574,5 +574,13 @@
         "Flag": [
             "Other"
         ]
+    },
+    {
+        "Date": 1714953600000,
+        "Description": "נט פיש",
+        "Amount": 123.0,
+        "Flag": [
+            "Other"
+        ]
     }
 ]
