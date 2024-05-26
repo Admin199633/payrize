@@ -20,7 +20,7 @@ categories = [
 for obj in output_data:
     # Check if the "Flag" field contains multiple values
     if isinstance(obj["Flag"], list) and len(obj["Flag"]) > 1:
-        print("Multiple values found in 'Flag' field for description:", obj["Description"])
+        print("Multiple values found in 'Flag' field for description:", obj["Description"],obj["Amount"])
         print("Current values:", obj["Flag"])
 
         # Prompt the user to choose a category
