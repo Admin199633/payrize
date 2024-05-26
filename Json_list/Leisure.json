@@ -166,5 +166,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1715644800000,
+        "Description": "Stolero",
+        "Amount": 136.6,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
