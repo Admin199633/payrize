@@ -550,5 +550,13 @@
         "Flag": [
             "Other"
         ]
+    },
+    {
+        "Date": 1716336000000,
+        "Description": "מספרת אקספרס",
+        "Amount": 80.0,
+        "Flag": [
+            "Other"
+        ]
     }
 ]
