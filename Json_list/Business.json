@@ -292,5 +292,13 @@
         "Flag": [
             "Business"
         ]
+    },
+    {
+        "Date": 1714521600000,
+        "Description": "מלון קדמא-צמרת",
+        "Amount": 4.0,
+        "Flag": [
+            "Business"
+        ]
     }
 ]
