@@ -1,3 +1,7 @@
 requests
 openpyxl
 pandas
+google_auth_oauthlib
+google-auth-oauthlib
+googleapiclient
+google-api-python-client
