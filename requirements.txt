@@ -1,7 +1,8 @@
-requests
+googleapiclient
 openpyxl
 pandas
-google_auth_oauthlib
+requests
 google-auth-oauthlib
-googleapiclient
+google-auth-httplib2
 google-api-python-client
+ttkthemes
