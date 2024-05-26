@@ -70,5 +70,11 @@
         "Description": "17/05/2024",
         "Amount": "PAYPAL  ALIPAYSINGA",
         "Flag": "None"
+    },
+    {
+        "Date": 1714694400000,
+        "Description": "כרטיסים GO OUT",
+        "Amount": 161.94,
+        "Flag": "None"
     }
 ]
