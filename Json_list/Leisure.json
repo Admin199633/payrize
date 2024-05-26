@@ -270,5 +270,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1715558400000,
+        "Description": "פיצוחי קליפורניה",
+        "Amount": 14.5,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
