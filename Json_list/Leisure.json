@@ -214,5 +214,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1714780800000,
+        "Description": "דלק מנטה יהוד",
+        "Amount": 36.8,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
