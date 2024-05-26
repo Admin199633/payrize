@@ -278,5 +278,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1715558400000,
+        "Description": "תמרה יוגורט",
+        "Amount": 33.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
