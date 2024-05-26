@@ -326,5 +326,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1716249600000,
+        "Description": "קסטה  בפארק המסילה",
+        "Amount": 13.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
