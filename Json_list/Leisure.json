@@ -238,5 +238,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1715040000000,
+        "Description": "סלון ברלין",
+        "Amount": 40.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
