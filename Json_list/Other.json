@@ -1,6 +1,6 @@
 [
     {
-        "Description": "\u05d0\u05e7\u05d9 \u05e2\u05d9\u05e6\u05d5\u05d1 \u05e9\u05d9\u05e2\u05e8",
+        "Description": "אקי עיצוב שיער",
         "Amount": 75,
         "Date": 1,
         "Flag": "other"
@@ -12,13 +12,13 @@
         "Flag": "other"
     },
     {
-        "Description": "\u05d8\u05d9\u05e1\u05d4 \u05dc\u05d0\u05d1\u05d5 \u05d3\u05d0\u05d1\u05d9",
+        "Description": "טיסה לאבו דאבי",
         "Amount": 1536,
         "Date": 1,
         "Flag": "other"
     },
     {
-        "Description": "WIND \u05d4\u05e9\u05db\u05e8\u05ea \u05e7\u05d5\u05e8\u05e7\u05d9\u05e0\u05d8\u05d9\u05dd",
+        "Description": "WIND השכרת קורקינטים",
         "Amount": 40,
         "Date": 1,
         "Flag": "other"
@@ -36,37 +36,37 @@
         "Flag": "other"
     },
     {
-        "Description": "\u05d8\u05d1\u05e2\u05ea",
+        "Description": "טבעת",
         "Amount": 5600,
         "Date": 1,
         "Flag": "other"
     },
     {
-        "Description": "\u05e8\u05d5\u05e0\u05d9 \u05d8\u05d9\u05e1\u05d4",
+        "Description": "רוני טיסה",
         "Amount": 700,
         "Date": 1,
         "Flag": "other"
     },
     {
-        "Description": "\u05d2 \u05d0 \u05e8 \u05d4\u05d9\u05d9\u05e0\u05de\u05df \u05d8\u05e8\u05de\u05d9\u05e0\u05dc",
+        "Description": "ג א ר היינמן טרמינל",
         "Amount": 522.29,
         "Date": 2,
         "Flag": "other"
     },
     {
-        "Description": "BEANZ \u05e0\u05ea\u05d1\"\u05d2 -",
+        "Description": "BEANZ נתב\"ג -",
         "Amount": 10,
         "Date": 2,
         "Flag": "other"
     },
     {
-        "Description": "\u05de\u05d9\u05e0\u05d9\u05de\u05e8\u05e7\u05d8 \u05e7\u05d9\u05d9\u05d6\u05e8 \u05d1\u05e2\"\u05de \u05dc\u05d0\u05e1\u05e3",
+        "Description": "מינימרקט קייזר בע\"מ לאסף",
         "Amount": 83,
         "Date": 2,
         "Flag": "other"
     },
     {
-        "Description": "\u05ea\u05e8\u05d5\u05de\u05d4",
+        "Description": "תרומה",
         "Amount": 20,
         "Date": 2,
         "Flag": "other"
@@ -90,7 +90,7 @@
         "Flag": "other"
     },
     {
-        "Description": "\u05d7\u05ea\u05d5\u05e0\u05d4 \u05e2\u05de\u05d9\u05ea",
+        "Description": "חתונה עמית",
         "Amount": 450,
         "Date": 3,
         "Flag": "other"
@@ -102,37 +102,37 @@
         "Flag": "other"
     },
     {
-        "Description": "\u05d2\u05dc\u05e2\u05d3 \u05d4\u05e1\u05db\u05dd \u05de\u05de\u05d5\u05df",
+        "Description": "גלעד הסכם ממון",
         "Amount": 2340,
         "Date": 3,
         "Flag": "other"
     },
     {
-        "Description": "\u05d0\u05d1\u05d0 \u05d1\u05d9\u05d8",
+        "Description": "אבא ביט",
         "Amount": 180,
         "Date": 4,
         "Flag": "other"
     },
     {
-        "Description": "\u05d0\u05e7\u05d9 \u05e2\u05d9\u05e6\u05d5\u05d1 \u05e9\u05d9\u05e2\u05e8",
+        "Description": "אקי עיצוב שיער",
         "Amount": 70,
         "Date": 4,
         "Flag": "other"
     },
     {
-        "Description": "\u05e2\u05de\u05e8\u05d9 \u05d1\u05d9\u05d8",
+        "Description": "עמרי ביט",
         "Amount": 50,
         "Date": 4,
         "Flag": "other"
     },
     {
-        "Description": "\u05e8\u05d5\u05df \u05d5\u05d9\u05d0\u05dc\u05d2\u05d5\u05e1 \u05d1\u05d9\u05d8",
+        "Description": "רון ויאלגוס ביט",
         "Amount": 109,
         "Date": 4,
         "Flag": "other"
     },
     {
-        "Description": "\u05d0\u05de\u05d9\u05e8",
+        "Description": "אמיר",
         "Amount": 20,
         "Date": 4,
         "Flag": "other"
@@ -144,49 +144,49 @@
         "Flag": "other"
     },
     {
-        "Description": "\u05d2\u05dc\u05e2\u05d3",
+        "Description": "גלעד",
         "Amount": 461,
         "Date": 4,
         "Flag": "other"
     },
     {
-        "Description": "\u05db\u05dc\u05d1\u05d5 \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+        "Description": "כלבו מודיעין",
         "Amount": 32,
         "Date": 5,
         "Flag": "other"
     },
     {
-        "Description": "\u05d1\u05e0\u05e7 \u05dc\u05d0\u05d5\u05de\u05d9-\u05d3\u05de\u05d9 \u05db\u05e8\u05d8\u05d9\u05e1",
+        "Description": "בנק לאומי-דמי כרטיס",
         "Amount": 18,
         "Date": 5,
         "Flag": "other"
     },
     {
-        "Description": "\u05de\u05d7\u05e1\u05e0\u05d9 \u05d7\u05e9\u05de\u05dc \u05d0\u05d9\u05dc\u05ea-\u05e6\u05de\u05e8\u05ea",
+        "Description": "מחסני חשמל אילת-צמרת",
         "Amount": 512,
         "Date": 5,
         "Flag": "other"
     },
     {
-        "Description": "\u05e4\u05d5\u05e2\u05dc\u05d9\u05dd- \u05d3\u05de\u05d9 \u05db\u05e8\u05d8\u05d9\u05e1",
+        "Description": "פועלים- דמי כרטיס",
         "Amount": 7.8,
         "Date": 5,
         "Flag": "other"
     },
     {
-        "Description": "\u05de\u05d6\u05d5\u05de\u05df",
+        "Description": "מזומן",
         "Amount": 700,
         "Date": 5,
         "Flag": "other"
     },
     {
-        "Description": "\u05d0\u05de\u05d9\u05e8",
+        "Description": "אמיר",
         "Amount": 165,
         "Date": 6,
         "Flag": "other"
     },
     {
-        "Description": "\u05d0\u05d9\u05d9\u05dc \u05dc\u05d5\u05d9 \u05de\u05e1\u05e4\u05e8\u05d4",
+        "Description": "אייל לוי מספרה",
         "Amount": 70,
         "Date": 6,
         "Flag": "other"
@@ -198,19 +198,19 @@
         "Flag": "other"
     },
     {
-        "Description": "\u05d8\u05d9\u05e0\u05d3\u05e8",
+        "Description": "טינדר",
         "Amount": 40,
         "Date": 6,
         "Flag": "other"
     },
     {
-        "Description": "\u05d8\u05d1\u05e2 \u05d1\u05e8\u05d9\u05d0",
+        "Description": "טבע בריא",
         "Amount": 233,
         "Date": 7,
         "Flag": "other"
     },
     {
-        "Description": "\u05e1\u05d5\u05e4\u05e8 \u05e4\u05d0\u05e8\u05dd \u05e7\u05e0\u05d9\u05d5\u05df \u05de\u05d5\u05d3\u05d9",
+        "Description": "סופר פארם קניון מודי",
         "Amount": 23.9,
         "Date": 7,
         "Flag": "other"
@@ -222,13 +222,13 @@
         "Flag": "other"
     },
     {
-        "Description": "\u05de\u05e7\u05e1 \u05d7\u05d5\u05dc\u05d5\u05df \u05d1\u05e2\"\u05de",
+        "Description": "מקס חולון בע\"מ",
         "Amount": 45.9,
         "Date": 7,
         "Flag": "other"
     },
     {
-        "Description": "\u05d0\u05d9\u05d9\u05dc \u05dc\u05d5\u05d9 \u05de\u05e1\u05e4\u05e8\u05d4",
+        "Description": "אייל לוי מספרה",
         "Amount": 70,
         "Date": 7,
         "Flag": "other"
@@ -240,7 +240,7 @@
         "Flag": "other"
     },
     {
-        "Description": "\u05d0\u05de\u05d9\u05e8",
+        "Description": "אמיר",
         "Amount": 70,
         "Date": 8,
         "Flag": "other"
@@ -252,43 +252,43 @@
         "Flag": "other"
     },
     {
-        "Description": "\u05d2\u05d9\u05d9\u05e0\u05e8",
+        "Description": "גיינר",
         "Amount": 277.9,
         "Date": 8,
         "Flag": "other"
     },
     {
-        "Description": "\u05d8\u05d1\u05e2 \u05d1\u05e8\u05d9\u05d0",
+        "Description": "טבע בריא",
         "Amount": 277.9,
         "Date": 8,
         "Flag": "other"
     },
     {
-        "Description": "\u05d5\u05d9\u05d6\u05d4 \u05d0\u05e8\u05d4\"\u05d1",
+        "Description": "ויזה ארה\"ב",
         "Amount": 685,
         "Date": 8,
         "Flag": "other"
     },
     {
-        "Description": "\u05de\u05ea\u05e0\u05d4 \u05dc\u05dc\u05d9\u05d0\u05ea",
+        "Description": "מתנה לליאת",
         "Amount": 50,
         "Date": 9,
         "Flag": "other"
     },
     {
-        "Description": "\u05e1\u05d5\u05e4\u05e8 \u05e4\u05d0\u05e8\u05dd \u05d8\u05d9\u05d9\u05dc\u05ea \u05d0\u05d9\u05dc\u05ea - \u05dc\u05d0\u05de\u05d0",
+        "Description": "סופר פארם טיילת אילת - לאמא",
         "Amount": 1537.6,
         "Date": 9,
         "Flag": "other"
     },
     {
-        "Description": "\u05e4\u05dc\u05d5\u05e8\u05d5\u05d6",
+        "Description": "פלורוז",
         "Amount": 79,
         "Date": 9,
         "Flag": "other"
     },
     {
-        "Description": "\u05d1\u05e8\u05e1\u05d5 \u05e6\u05d9\u05dc\u05d5\u05dd \u05d1\u05e2\"\u05de",
+        "Description": "ברסו צילום בע\"מ",
         "Amount": 30,
         "Date": 9,
         "Flag": "other"
@@ -306,31 +306,31 @@
         "Flag": "other"
     },
     {
-        "Description": "\u05e9\u05d5\u05e4\u05e8\u05e1\u05dc \u05d3\u05d9\u05dc \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+        "Description": "שופרסל דיל מודיעין",
         "Amount": 631.74,
         "Date": 10,
         "Flag": "other"
     },
     {
-        "Description": "\u05dc\u05d9\u05d0\u05d5\u05e8 \u05e2\u05d3\u05d9\u05e7\u05d4 - \u05e1\u05e0\u05d9\u05e3 \u05de",
+        "Description": "ליאור עדיקה - סניף מ",
         "Amount": 61.6,
         "Date": 10,
         "Flag": "other"
     },
     {
-        "Description": "\u05e4\u05d9\u05e4\u05d0",
+        "Description": "פיפא",
         "Amount": 253,
         "Date": 10,
         "Flag": "other"
     },
     {
-        "Description": "\u05e7\u05d5\u05e8\u05d5\u05ea \u05d7\u05d9\u05d9\u05dd",
+        "Description": "קורות חיים",
         "Amount": 12.5,
         "Date": 10,
         "Flag": "other"
     },
     {
-        "Description": "\u05d0\u05dc\u05d9 \u05d0\u05e7\u05e1\u05e4\u05e8\u05e1",
+        "Description": "אלי אקספרס",
         "Amount": 10,
         "Date": 10,
         "Flag": "other"
@@ -342,31 +342,31 @@
         "Flag": "other"
     },
     {
-        "Description": "\u05d0\u05d5\u05d6\u05e0\u05d9\u05d5\u05ea KSP",
+        "Description": "אוזניות KSP",
         "Amount": 319,
         "Date": 10,
         "Flag": "other"
     },
     {
-        "Description": "\u05d0\u05d9\u05d9\u05dc \u05dc\u05d5\u05d9 \u05de\u05e1\u05e4\u05e8\u05d4",
+        "Description": "אייל לוי מספרה",
         "Amount": 70,
         "Date": 11,
         "Flag": "other"
     },
     {
-        "Description": "\u05e7\u05e8\u05d8\u05d9\u05df \u05d7\u05dc\u05d1\u05d5\u05df",
+        "Description": "קרטין חלבון",
         "Amount": 320,
         "Date": 11,
         "Flag": "other"
     },
     {
-        "Description": "\u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea \u05d0\u05de\u05d0 + \u05de\u05d7\u05de\u05dd",
+        "Description": "יום הולדת אמא + מחמם",
         "Amount": 350,
         "Date": 11,
         "Flag": "other"
     },
     {
-        "Description": "\u05d6\u05d0\u05e8\u05d4 - \u05e7\u05e0\u05d9\u05d5\u05df \u05d3\u05d9\u05d6\u05e0\u05d2\u05d5\u05e3",
+        "Description": "זארה - קניון דיזנגוף",
         "Amount": 69.9,
         "Date": 11,
         "Flag": "other"
@@ -378,13 +378,13 @@
         "Flag": "other"
     },
     {
-        "Description": "\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8 + \u05dc\u05e1\u05d5\u05e0\u05d9 \u05e4\u05dc\u05e1\u05d8\u05d9\u05d9\u05e9\u05df",
+        "Description": "אינטרנט + לסוני פלסטיישן",
         "Amount": 320,
         "Date": 11,
         "Flag": "other"
     },
     {
-        "Description": "\u05d2\u05d5\u05d8\u05e7\u05e1 \u05de\u05d5\u05ea\u05d2\u05d9\u05dd \u05d6\u05d0\u05e8\u05d4 \u05de\u05d5",
+        "Description": "גוטקס מותגים זארה מו",
         "Amount": 299,
         "Date": 12,
         "Flag": "other"
@@ -396,31 +396,31 @@
         "Flag": "other"
     },
     {
-        "Description": "\u05e7\u05e1\u05d8\u05e8\u05d5 \u05de\u05df \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df-\u05d2\u05de\u05d0",
+        "Description": "קסטרו מן מודיעין-גמא",
         "Amount": 299,
         "Date": 12,
         "Flag": "other"
     },
     {
-        "Description": "\u05de\u05e1\u05e4\u05e8\u05ea \u05d0\u05e7\u05e1\u05e4\u05e8\u05e1",
+        "Description": "מספרת אקספרס",
         "Amount": 60,
         "Date": 12,
         "Flag": "other"
     },
     {
-        "Description": "\u05d8\u05d9\u05e4\u05d5\u05dc \u05e4\u05e0\u05d9\u05dd",
+        "Description": "טיפול פנים",
         "Amount": 470,
         "Date": 12,
         "Flag": "other"
     },
     {
-        "Description": "\u05d7\u05ea\u05d5\u05e0\u05d4 \u05de\u05d9\u05e9\u05e8",
+        "Description": "חתונה מישר",
         "Amount": 750,
         "Date": 12,
         "Flag": "other"
     },
     {
-        "Description": "\u05de\u05e1\u05d9\u05d1\u05ea \u05e8\u05d5\u05d5\u05e7\u05d9\u05dd \u05de\u05d9\u05e9\u05e8",
+        "Description": "מסיבת רווקים מישר",
         "Amount": 525,
         "Date": 12,
         "Flag": "other"
@@ -433,7 +433,7 @@
     },
     {
         "Date": 1710201600000,
-        "Description": "\u05d4\u05e2\u05d1\u05e8\u05d4 \u05d1bit",
+        "Description": "העברה בbit",
         "Amount": 100.0,
         "Flag": [
             "Other"
@@ -441,7 +441,7 @@
     },
     {
         "Date": 1710374400000,
-        "Description": "\u05e8. \u05d4\u05d3\u05d5\u05d0\u05e8-\u05de\u05db\u05d9\u05e8\u05ea \u05de\u05d5\u05e6\u05e8\u05d9",
+        "Description": "ר. הדואר-מכירת מוצרי",
         "Amount": 50.0,
         "Flag": [
             "Other"
@@ -473,7 +473,7 @@
     },
     {
         "Date": 1714867200000,
-        "Description": "\u05d6\u05d8.\u05d0\u05e1.\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05e9\u05d9\u05d5\u05e0\u05dc \u05d0\u05d2",
+        "Description": "זט.אס.אינטרנשיונל אג",
         "Amount": 231.0,
         "Flag": [
             "Other"
@@ -481,7 +481,7 @@
     },
     {
         "Date": 1714953600000,
-        "Description": "\u05e0\u05d8 \u05e4\u05d9\u05e9",
+        "Description": "נט פיש",
         "Amount": 123.0,
         "Flag": [
             "Other"
@@ -489,8 +489,16 @@
     },
     {
         "Date": 1716076800000,
-        "Description": "\u05e4\u05e8\u05e9\u05e8\u05d9\u05e3 \u05d1\u05e2\"\u05de",
+        "Description": "פרשריף בע\"מ",
         "Amount": 565.0,
+        "Flag": [
+            "Other"
+        ]
+    },
+    {
+        "Date": 1714867200000,
+        "Description": "העברה בbit",
+        "Amount": 80.0,
         "Flag": [
             "Other"
         ]
