@@ -332,5 +332,13 @@
         "Flag": [
             "Business"
         ]
+    },
+    {
+        "Date": 1716249600000,
+        "Description": "נאייקס ישראל חניונים",
+        "Amount": 50.0,
+        "Flag": [
+            "Business"
+        ]
     }
 ]
