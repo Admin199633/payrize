@@ -398,5 +398,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1714953600000,
+        "Description": "סוכריה",
+        "Amount": 10.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
