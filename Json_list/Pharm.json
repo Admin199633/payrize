@@ -1,74 +1,82 @@
 [
     {
-        "Description": "סופר פארם כופר הישוב",
+        "Description": "\u05e1\u05d5\u05e4\u05e8 \u05e4\u05d0\u05e8\u05dd \u05db\u05d5\u05e4\u05e8 \u05d4\u05d9\u05e9\u05d5\u05d1",
         "Amount": 534,
         "Date": 1,
         "Flag": "Pharam"
     },
     {
-        "Description": "סופר פארם כופר הישוב",
+        "Description": "\u05e1\u05d5\u05e4\u05e8 \u05e4\u05d0\u05e8\u05dd \u05db\u05d5\u05e4\u05e8 \u05d4\u05d9\u05e9\u05d5\u05d1",
         "Amount": 399,
         "Date": 1,
         "Flag": "Pharam"
     },
     {
-        "Description": "סופר-פארם רמלוד 174",
+        "Description": "\u05e1\u05d5\u05e4\u05e8-\u05e4\u05d0\u05e8\u05dd \u05e8\u05de\u05dc\u05d5\u05d3 174",
         "Amount": 199,
         "Date": 1,
         "Flag": "Pharam"
     },
     {
-        "Description": "מכבי דנט מרפ\"ש בני ב",
+        "Description": "\u05de\u05db\u05d1\u05d9 \u05d3\u05e0\u05d8 \u05de\u05e8\u05e4\"\u05e9 \u05d1\u05e0\u05d9 \u05d1",
         "Amount": 134,
         "Date": 1,
         "Flag": "Pharam"
     },
     {
-        "Description": "סופר פארם כופר הישוב",
+        "Description": "\u05e1\u05d5\u05e4\u05e8 \u05e4\u05d0\u05e8\u05dd \u05db\u05d5\u05e4\u05e8 \u05d4\u05d9\u05e9\u05d5\u05d1",
         "Amount": 896,
         "Date": 3,
         "Flag": "Pharam"
     },
     {
-        "Description": "סופר-פארם רמלוד 174",
+        "Description": "\u05e1\u05d5\u05e4\u05e8-\u05e4\u05d0\u05e8\u05dd \u05e8\u05de\u05dc\u05d5\u05d3 174",
         "Amount": 787,
         "Date": 5,
         "Flag": "Pharam"
     },
     {
-        "Description": "סופר פארם שוהם 49",
+        "Description": "\u05e1\u05d5\u05e4\u05e8 \u05e4\u05d0\u05e8\u05dd \u05e9\u05d5\u05d4\u05dd 49",
         "Amount": 25.2,
         "Date": 6,
         "Flag": "Pharam"
     },
     {
-        "Description": "סופר פארם איירפורט ס",
+        "Description": "\u05e1\u05d5\u05e4\u05e8 \u05e4\u05d0\u05e8\u05dd \u05d0\u05d9\u05d9\u05e8\u05e4\u05d5\u05e8\u05d8 \u05e1",
         "Amount": 1035,
         "Date": 8,
         "Flag": "Pharam"
     },
     {
-        "Description": "בית מרקחת",
+        "Description": "\u05d1\u05d9\u05ea \u05de\u05e8\u05e7\u05d7\u05ea",
         "Amount": 510,
         "Date": 9,
         "Flag": "Pharam"
     },
     {
-        "Description": "רשיון לקאנביס",
+        "Description": "\u05e8\u05e9\u05d9\u05d5\u05df \u05dc\u05e7\u05d0\u05e0\u05d1\u05d9\u05e1",
         "Amount": 448,
         "Date": 11,
         "Flag": "Pharam"
     },
     {
-        "Description": "טבע בריא",
+        "Description": "\u05d8\u05d1\u05e2 \u05d1\u05e8\u05d9\u05d0",
         "Amount": 295.8,
         "Date": 12,
         "Flag": "Pharam"
     },
     {
         "Date": 1710028800000,
-        "Description": "מכבידנט מודיעין עילי",
+        "Description": "\u05de\u05db\u05d1\u05d9\u05d3\u05e0\u05d8 \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9",
         "Amount": 137.9,
+        "Flag": [
+            "Pharm"
+        ]
+    },
+    {
+        "Date": 1714694400000,
+        "Description": "\u05e1\u05e4\u05d9\u05d9\u05e1 \u05e4\u05dc\u05d5\u05e8\u05e0\u05d8\u05d9\u05df",
+        "Amount": 10.0,
         "Flag": [
             "Pharm"
         ]
