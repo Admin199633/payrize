@@ -1,12 +1,12 @@
 [
     {
-        "Description": "\u05d1\u05d9\u05d8\u05d5\u05d7 \u05dc\u05d0\u05d5\u05de\u05d9 \u05d4\u05d5\u05e8\u05d0\u05d5\u05ea \u05e7 \u05d3\u05d5\u05d0\u05dc\u05d9 \u05de\u05db\u05d5\u05e0\u05d5\u05ea \u05d0\u05d5\u05d8\u05d5\u05de\u05d8\u05d9",
+        "Description": "ביטוח לאומי הוראות ק דואלי מכונות אוטומטי",
         "Amount": 7,
         "Date": 1,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d8\u05dc\u05d6\u05e8 019 \u05e9\u05d9\u05e8\u05d5\u05ea\u05d9 \u05ea\u05e7\u05e9\u05d5",
+        "Description": "טלזר 019 שירותי תקשו",
         "Amount": 22,
         "Date": 1,
         "Flag": "Business"
@@ -18,236 +18,236 @@
         "Flag": "Business"
     },
     {
-        "Description": "\u05d8\u05dc\u05d6\u05e8 019 \u05e9\u05d9\u05e8\u05d5\u05ea\u05d9 \u05ea\u05e7\u05e9\u05d5",
+        "Description": "טלזר 019 שירותי תקשו",
         "Amount": 16,
         "Date": 2,
         "Flag": "Business"
     },
     {
-        "Description": "\u05e2\u05d5\u05d1\u05d3 \u05d1\u05e8\u05d3\u05d5\u05d2\u05d5",
+        "Description": "עובד ברדוגו",
         "Amount": 585,
         "Date": 3,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d2\u05e1\u05d8\u05d5\u05df",
+        "Description": "גסטון",
         "Amount": 1800,
         "Date": 3,
         "Flag": "Business"
     },
     {
-        "Description": "\u05e0\u05d5\u05e4\u05e8",
+        "Description": "נופר",
         "Amount": 300,
         "Date": 3,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d4\u05e2\u05d1\u05e8\u05d4 \u05d1BIT",
+        "Description": "העברה בBIT",
         "Amount": 585,
         "Date": 3,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d4\u05e2\u05d1\u05e8\u05d4 \u05d1BIT",
+        "Description": "העברה בBIT",
         "Amount": 1800,
         "Date": 3,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d1\u05e0\u05e7 \u05dc\u05d0\u05d5\u05de\u05d9 IVE SENSES",
+        "Description": "בנק לאומי IVE SENSES",
         "Amount": 30.4,
         "Date": 3,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d3\u05d5\u05d0\u05dc\u05d9 \u05de\u05db\u05d5\u05e0\u05d5\u05ea \u05d0\u05d5\u05d8\u05d5\u05de\u05d8\u05d9",
+        "Description": "דואלי מכונות אוטומטי",
         "Amount": 7,
         "Date": 3,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d1\u05e0\u05e7 \u05dc\u05d0\u05d5\u05de\u05d9 IVE SENSES",
+        "Description": "בנק לאומי IVE SENSES",
         "Amount": 30.4,
         "Date": 3,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d0\u05e1\u05e3",
+        "Description": "אסף",
         "Amount": 250,
         "Date": 3,
         "Flag": "Business"
     },
     {
-        "Description": "\u05e4\u05e0\u05d2\u05d5-\u05d7\u05e0\u05d9\u05d5\u05e0\u05d9\u05dd",
+        "Description": "פנגו-חניונים",
         "Amount": 26,
         "Date": 4,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d1\u05e0\u05e7 \u05dc\u05d0\u05d5\u05de\u05d9 IVE SENSES",
+        "Description": "בנק לאומי IVE SENSES",
         "Amount": 30.4,
         "Date": 4,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d0\u05d7\u05d5\u05d6\u05ea \u05d4\u05d7\u05d5\u05e3 \u05d7\u05e0\u05d9\u05d5\u05df \u05ea\u05dc",
+        "Description": "אחוזת החוף חניון תל",
         "Amount": 9,
         "Date": 4,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d1\u05e0\u05e7 \u05dc\u05d0\u05d5\u05de\u05d9 IVE SENSES",
+        "Description": "בנק לאומי IVE SENSES",
         "Amount": 30.4,
         "Date": 5,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d1\u05d9\u05d8\u05d5\u05d7 \u05dc\u05d0\u05d5\u05de\u05d9 \u05d4\u05d5\u05e8\u05d0\u05d5\u05ea \u05e7",
+        "Description": "ביטוח לאומי הוראות ק",
         "Amount": 650,
         "Date": 5,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d1\u05d9\u05d2\u05d5\u05d3 \u05d4\u05d0\u05d5\u05e4\u05e0\u05d4 \u05dc\u05db\u05dc \u05d5\u05d1\u05d6",
+        "Description": "ביגוד האופנה לכל ובז",
         "Amount": 19.9,
         "Date": 5,
         "Flag": "Business"
     },
     {
-        "Description": "\u05e2\u05d5\u05d1\u05d3",
+        "Description": "עובד",
         "Amount": 1000,
         "Date": 5,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d1\u05d0-\u05e7\u05dc \u05d0\u05d5\u05e4\u05d9\u05e1 \u05d7\u05e0\u05df \u05de\u05dc\u05db\u05d4",
+        "Description": "בא-קל אופיס חנן מלכה",
         "Amount": 2436,
         "Date": 6,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d1\u05d9\u05d8\u05d5\u05d7 \u05dc\u05d0\u05d5\u05de\u05d9 \u05d4\u05d5\u05e8\u05d0\u05d5\u05ea \u05e7",
+        "Description": "ביטוח לאומי הוראות ק",
         "Amount": 650,
         "Date": 6,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d1\u05e0\u05e7 \u05dc\u05d0\u05d5\u05de\u05d9 IVE SENSES",
+        "Description": "בנק לאומי IVE SENSES",
         "Amount": 29.3,
         "Date": 6,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d3\u05d5\u05d7 \u05d7\u05e0\u05d9\u05d4",
+        "Description": "דוח חניה",
         "Amount": 250,
         "Date": 6,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d1\u05e0\u05e7 \u05dc\u05d0\u05d5\u05de\u05d9 IVE SENSES",
+        "Description": "בנק לאומי IVE SENSES",
         "Amount": 31.3,
         "Date": 7,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d1\u05e0\u05e7 \u05dc\u05d0\u05d5\u05de\u05d9 IVE SENSES",
+        "Description": "בנק לאומי IVE SENSES",
         "Amount": 36.3,
         "Date": 7,
         "Flag": "Business"
     },
     {
-        "Description": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05e8\u05de\u05ea \u05d2\u05df",
+        "Description": "עיריית רמת גן",
         "Amount": 250,
         "Date": 7,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d0\u05d1\u05df \u05e0\u05d9\u05d9\u05e8 \u05d5\u05de\u05e1\u05e4\u05e8\u05d9\u05d9\u05dd-\u05d2\u05de",
+        "Description": "אבן נייר ומספריים-גמ",
         "Amount": 14,
         "Date": 8,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d3\u05d9\u05d5 \u05e1\u05e0\u05d8\u05e8 \u05d1\u05e2\u05de",
+        "Description": "דיו סנטר בעמ",
         "Amount": 450,
         "Date": 8,
         "Flag": "Business"
     },
     {
-        "Description": "\u05de\u05e1 \u05d4\u05db\u05e0\u05e1\u05d4 \u05e2\u05e6\u05de\u05d0\u05d9\u05d9\u05dd \u05d5\u05d7\u05d1",
+        "Description": "מס הכנסה עצמאיים וחב",
         "Amount": 792,
         "Date": 8,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d1\u05d9\u05d8\u05d5\u05d7 \u05dc\u05d0\u05d5\u05de\u05d9 \u05d4\u05d5\u05e8\u05d0\u05d5\u05ea \u05e7",
+        "Description": "ביטוח לאומי הוראות ק",
         "Amount": 350,
         "Date": 8,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d7\u05e9\u05d1\u05d5\u05e0\u05d9\u05ea \u05d9\u05e8\u05d5\u05e7\u05d4",
+        "Description": "חשבונית ירוקה",
         "Amount": 336.96,
         "Date": 9,
         "Flag": "Business"
     },
     {
-        "Description": "\u05e2\u05d6\u05d5\u05e8\u05d9 \u05d0\u05e7\u05d5 \u05d8\u05d0\u05d5\u05d0\u05e8",
+        "Description": "עזורי אקו טאואר",
         "Amount": 45,
         "Date": 10,
         "Flag": "Business"
     },
     {
-        "Description": "\u05e2\u05d6\u05d5\u05e8\u05d9 \u05d0\u05e7\u05d5 \u05d8\u05d0\u05d5\u05d0\u05e8",
+        "Description": "עזורי אקו טאואר",
         "Amount": 45,
         "Date": 10,
         "Flag": "Business"
     },
     {
-        "Description": "\u05db\u05d1\u05d9\u05e9 6",
+        "Description": "כביש 6",
         "Amount": 22.39,
         "Date": 10,
         "Flag": "Business"
     },
     {
-        "Description": "\u05e2\u05d6\u05d5\u05e8\u05d9 \u05d0\u05e7\u05d5 \u05d8\u05d0\u05d5\u05d0\u05e8",
+        "Description": "עזורי אקו טאואר",
         "Amount": 45,
         "Date": 12,
         "Flag": "Business"
     },
     {
-        "Description": "\u05e2\u05d6\u05d5\u05e8\u05d9 \u05d0\u05e7\u05d5 \u05d8\u05d0\u05d5\u05d0\u05e8",
+        "Description": "עזורי אקו טאואר",
         "Amount": 45,
         "Date": 12,
         "Flag": "Business"
     },
     {
-        "Description": "\u05e2\u05d6\u05d5\u05e8\u05d9 \u05d0\u05e7\u05d5 \u05d8\u05d0\u05d5\u05d0\u05e8",
+        "Description": "עזורי אקו טאואר",
         "Amount": 18,
         "Date": 12,
         "Flag": "Business"
     },
     {
-        "Description": "\u05e2\u05d6\u05d5\u05e8\u05d9 \u05d0\u05e7\u05d5 \u05d8\u05d0\u05d5\u05d0\u05e8",
+        "Description": "עזורי אקו טאואר",
         "Amount": 45,
         "Date": 12,
         "Flag": "Business"
     },
     {
-        "Description": "\u05e2\u05d6\u05d5\u05e8\u05d9 \u05d0\u05e7\u05d5 \u05d8\u05d0\u05d5\u05d0\u05e8",
+        "Description": "עזורי אקו טאואר",
         "Amount": 45,
         "Date": 12,
         "Flag": "Business"
     },
     {
-        "Description": "\u05d3\u05d5\u05d3 \u05e2\u05d5\u05d6\u05d1",
+        "Description": "דוד עוזב",
         "Amount": 50,
         "Date": 12,
         "Flag": "Business"
     },
     {
         "Date": 1710115200000,
-        "Description": "\u05d7\u05e0\u05d9\u05d5\u05e0\u05d9 \u05d9\u05e2\u05e7\u05d1\u05d9",
+        "Description": "חניוני יעקבי",
         "Amount": 16.0,
         "Flag": [
             "Business"
@@ -255,7 +255,7 @@
     },
     {
         "Date": 1710633600000,
-        "Description": "\u05e0\u05d0\u05d9\u05d9\u05e7\u05e1 \u05d9\u05e9\u05e8\u05d0\u05dc \u05d7\u05e0\u05d9\u05d5\u05e0\u05d9\u05dd",
+        "Description": "נאייקס ישראל חניונים",
         "Amount": 65.0,
         "Flag": [
             "Business"
@@ -263,7 +263,7 @@
     },
     {
         "Date": 1711584000000,
-        "Description": "\u05d7\u05e0\u05d9\u05d5\u05df \u05d2\u05df \u05d4\u05e2\u05d9\u05e8 \u05ea\u05dc \u05d0\u05d1\u05d9",
+        "Description": "חניון גן העיר תל אבי",
         "Amount": 100.0,
         "Flag": [
             "Business"
@@ -271,7 +271,7 @@
     },
     {
         "Date": 1710720000000,
-        "Description": "\u05d7\u05e0\u05df \u05de\u05dc\u05db\u05d4 \u05d7\u05e0\u05d5\u05ea",
+        "Description": "חנן מלכה חנות",
         "Amount": 1065,
         "Flag": [
             "Business"
@@ -279,7 +279,15 @@
     },
     {
         "Date": 1714521600000,
-        "Description": "\u05de\u05dc\u05d5\u05df \u05e7\u05d3\u05de\u05d0-\u05e6\u05de\u05e8\u05ea",
+        "Description": "מלון קדמא-צמרת",
+        "Amount": 4.0,
+        "Flag": [
+            "Business"
+        ]
+    },
+    {
+        "Date": 1714521600000,
+        "Description": "מלון קדמא-צמרת",
         "Amount": 4.0,
         "Flag": [
             "Business"
