@@ -710,5 +710,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1716854400000,
+        "Description": "שומשום בר בריא",
+        "Amount": 34.76,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
