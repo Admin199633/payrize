@@ -630,5 +630,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1715644800000,
+        "Description": "סופר מימון",
+        "Amount": 10.9,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
