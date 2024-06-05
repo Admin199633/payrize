@@ -286,5 +286,13 @@
         "Amount": 1450,
         "Date": 12,
         "Flag": "mortgage"
+    },
+    {
+        "Date": 1716422400000,
+        "Description": "בנק לאומי-דמי כרטיס",
+        "Amount": 19.7,
+        "Flag": [
+            "Mortgage"
+        ]
     }
 ]
