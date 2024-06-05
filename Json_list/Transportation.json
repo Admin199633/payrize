@@ -540,5 +540,13 @@
         "Flag": [
             "Transportation"
         ]
+    },
+    {
+        "Date": 1714867200000,
+        "Description": "נאייקס ישראל חניונים",
+        "Amount": 50,
+        "Flag": [
+            "Transportation"
+        ]
     }
 ]
