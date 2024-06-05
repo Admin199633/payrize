@@ -580,5 +580,13 @@
         "Flag": [
             "Transportation"
         ]
+    },
+    {
+        "Date": 1716336000000,
+        "Description": "פז yellow קיבוץ גלוי",
+        "Amount": 180,
+        "Flag": [
+            "Transportation"
+        ]
     }
 ]
