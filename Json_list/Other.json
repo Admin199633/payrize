@@ -758,5 +758,13 @@
         "Flag": [
             "Other"
         ]
+    },
+    {
+        "Date": 1714694400000,
+        "Description": "כרטיסים go out",
+        "Amount": 161.94,
+        "Flag": [
+            "Other"
+        ]
     }
 ]
