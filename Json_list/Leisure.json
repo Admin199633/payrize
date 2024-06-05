@@ -718,5 +718,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1717027200000,
+        "Description": "ראיה בר",
+        "Amount": 35,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
