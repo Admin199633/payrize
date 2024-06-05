@@ -686,5 +686,13 @@
         "Flag": [
             "Other"
         ]
+    },
+    {
+        "Date": 1715817600000,
+        "Description": "העברה בbit",
+        "Amount": 27,
+        "Flag": [
+            "Other"
+        ]
     }
 ]
