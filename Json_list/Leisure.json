@@ -806,5 +806,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1717804800000,
+        "Description": "Swing",
+        "Amount": 202.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
