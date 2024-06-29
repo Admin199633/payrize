@@ -356,5 +356,13 @@
         "Flag": [
             "Business"
         ]
+    },
+    {
+        "Date": 1717891200000,
+        "Description": "עיריית תל אביב יפו א",
+        "Amount": 623.89,
+        "Flag": [
+            "Business"
+        ]
     }
 ]
