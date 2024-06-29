@@ -748,5 +748,13 @@
         "Flag": [
             "Transportation"
         ]
+    },
+    {
+        "Date": 1719187200000,
+        "Description": "פז אפליקצית-yellow",
+        "Amount": 189.48,
+        "Flag": [
+            "Transportation"
+        ]
     }
 ]
