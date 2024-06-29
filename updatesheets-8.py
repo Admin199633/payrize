@@ -10,7 +10,7 @@ from googleapiclient.errors import HttpError
 # Define the scopes and spreadsheet ID
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/drive"]
 SPREADSHEET_ID = "1ncWrIEXjrAjC4h_hwBgzWNQvig-1ZAjF7F7k5-fxfS0"
-CLIENT_SECRETS_FILE = "C:\\Users\\LS\\Desktop\\rizeup1\\credentials.json"  # Replace with the path to your JSON file
+CLIENT_SECRETS_FILE = "C:\\Users\\LS\\Downloads\\credentials.json" # Replace with the path to your JSON file
 REQUEST_DELAY = 2  # Delay between requests in seconds
 
 def find_next_empty_row(sheet, flag_column):
@@ -43,7 +43,7 @@ def main():
         sheet = service.spreadsheets()
 
         # Define the range A1:Z1
-        range_ = "A1:Z1"
+        range_ = "A7:Z7"
 
         # Get the values from the specified range
         print("Getting values from spreadsheet...")
