@@ -72,7 +72,8 @@ def process_excel(file_path):
         "flagonevalue5.py",
         "delete line output4-6.py",
         "pushtogit7.py",
-        "8.py"
+        "8.py",
+        "Sum9.py"
     ]
 
     for script_path in script_paths:
