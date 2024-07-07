@@ -88,5 +88,11 @@
         "Description": "כרטיסים GO OUT",
         "Amount": 161.94,
         "Flag": "None"
+    },
+    {
+        "Date": 1719792000000,
+        "Description": "דלק קמעונאות כנות",
+        "Amount": 10.5,
+        "Flag": "None"
     }
 ]
