@@ -814,5 +814,13 @@
         "Flag": [
             "Transportation"
         ]
+    },
+    {
+        "Date": 1717200000000,
+        "Description": "מגדל סונול",
+        "Amount": 220.42,
+        "Flag": [
+            "Transportation"
+        ]
     }
 ]
