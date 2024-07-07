@@ -1822,5 +1822,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1718409600000,
+        "Description": "לילה",
+        "Amount": 20,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
