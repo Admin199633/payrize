@@ -118,5 +118,11 @@
         "Description": "כושר פלורנטין -הו\"ק-",
         "Amount": 99,
         "Flag": "None"
+    },
+    {
+        "Date": 1717545600000,
+        "Description": "דיו סנטר בעמ",
+        "Amount": 3140,
+        "Flag": "None"
     }
 ]
