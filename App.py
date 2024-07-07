@@ -1,3 +1,4 @@
+
 import openpyxl
 from datetime import datetime
 import os
@@ -5,11 +6,9 @@ from tkinter import filedialog
 import tkinter as tk
 import subprocess
 
-
 def browse_file():
     file_path = filedialog.askopenfilename()
     return file_path
-
 
 def process_excel(file_path):
     if not file_path:
@@ -54,31 +53,27 @@ def process_excel(file_path):
     sheet.cell(row=1, column=3, value="Amount")
     sheet.delete_rows(2)
 
-    # Save the modified workbook in the same directory as the original file
-    # Save the modified workbook in the same directory as the original file
-    directory = os.path.dirname(file_path)
-    filename = os.path.basename(file_path)
-    modified_file_path = os.path.join(directory, f"{os.path.splitext(filename)[0]}_modified.xlsx")
-    modified_file_path = modified_file_path.replace("\\", "/")  # Replace backslashes with forward slashes
+    # Save the modified workbook with a fixed name in the project folder
+    project_directory = os.getcwd()  # Get current working directory
+    modified_file_path = os.path.join(project_directory, "modified_excel_file.xlsx")
     workbook.save(modified_file_path)
     print(f"Modified Excel file saved as: {modified_file_path}")
 
     # Run other scripts
     script_paths = [
-        "organize_XL-1.py",
+        "pip_install0.py",
         "Convert_json-2.py",
         "checkdescription3.py",
         "orginzebyflag4.py",
         "flagonevalue5.py",
         "delete line output4-6.py",
         "pushtogit7.py",
-        "8.py",
+        "updatesheets-8.py",
         "Sum9.py"
     ]
 
     for script_path in script_paths:
         subprocess.run(["python", script_path, modified_file_path])
-
 
 if __name__ == "__main__":
     root = tk.Tk()
