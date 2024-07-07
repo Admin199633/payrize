@@ -1030,5 +1030,13 @@
         "Flag": [
             "Transportation"
         ]
+    },
+    {
+        "Date": 1717718400000,
+        "Description": "דלק קמעונאות השחר",
+        "Amount": 15.5,
+        "Flag": [
+            "Transportation"
+        ]
     }
 ]
