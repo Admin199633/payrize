@@ -2022,5 +2022,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1718150400000,
+        "Description": "פלפל חמידו",
+        "Amount": 50,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
