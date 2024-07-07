@@ -1422,5 +1422,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1719705600000,
+        "Description": "פז - טל הגשר",
+        "Amount": 8.9,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
