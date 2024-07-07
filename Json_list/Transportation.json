@@ -822,5 +822,13 @@
         "Flag": [
             "Transportation"
         ]
+    },
+    {
+        "Date": 1718064000000,
+        "Description": "פז אפליקצית-yellow",
+        "Amount": 195.61,
+        "Flag": [
+            "Transportation"
+        ]
     }
 ]
