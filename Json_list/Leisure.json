@@ -1798,5 +1798,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1718236800000,
+        "Description": "חנות ממתקים snax יס",
+        "Amount": 8,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
