@@ -1726,5 +1726,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1717804800000,
+        "Description": "תדר פיצה",
+        "Amount": 50,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
