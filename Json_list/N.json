@@ -112,5 +112,11 @@
         "Description": "דיו סנטר בעמ",
         "Amount": 3140,
         "Flag": "None"
+    },
+    {
+        "Date": 1718409600000,
+        "Description": "כושר פלורנטין -הו\"ק-",
+        "Amount": 99,
+        "Flag": "None"
     }
 ]
