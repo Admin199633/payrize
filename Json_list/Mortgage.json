@@ -126,12 +126,6 @@
         "Flag": "mortgage"
     },
     {
-        "Description": "בנק לאומי-דמי כרטיס",
-        "Amount": 18,
-        "Date": 4,
-        "Flag": "mortgage"
-    },
-    {
         "Description": "ביטוח ישיר-חיים",
         "Amount": 34.69,
         "Date": 4,
@@ -287,12 +281,4 @@
         "Date": 12,
         "Flag": "mortgage"
     },
-    {
-        "Date": 1716422400000,
-        "Description": "בנק לאומי-דמי כרטיס",
-        "Amount": 19.7,
-        "Flag": [
-            "Mortgage"
-        ]
-    }
 ]
