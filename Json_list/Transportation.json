@@ -894,5 +894,13 @@
         "Flag": [
             "Transportation"
         ]
+    },
+    {
+        "Date": 1719792000000,
+        "Description": "דלק קמעונאות כנות",
+        "Amount": 10.5,
+        "Flag": [
+            "Transportation"
+        ]
     }
 ]
