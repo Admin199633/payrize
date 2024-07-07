@@ -1486,5 +1486,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1717718400000,
+        "Description": "פיצוצית מלרז",
+        "Amount": 20,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
