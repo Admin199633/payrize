@@ -3270,5 +3270,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1724025600000,
+        "Description": "סונול קסטינה",
+        "Amount": 10.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
