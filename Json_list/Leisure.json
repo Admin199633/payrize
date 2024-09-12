@@ -3422,5 +3422,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1725062400000,
+        "Description": "אביב קופות ממוחשבות",
+        "Amount": 80.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
