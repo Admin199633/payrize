@@ -2934,5 +2934,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1720828800000,
+        "Description": "Lava-pasta",
+        "Amount": 181.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
