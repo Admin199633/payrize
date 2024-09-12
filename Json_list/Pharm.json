@@ -200,5 +200,13 @@
         "Flag": [
             "Pharm"
         ]
+    },
+    {
+        "Date": 1722384000000,
+        "Description": "ספייס פלורנטין",
+        "Amount": 12.0,
+        "Flag": [
+            "Pharm"
+        ]
     }
 ]
