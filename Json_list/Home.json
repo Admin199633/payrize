@@ -1046,5 +1046,13 @@
         "Flag": [
             "Home"
         ]
+    },
+    {
+        "Date": 1721520000000,
+        "Description": "שוק על ירך",
+        "Amount": 70.2,
+        "Flag": [
+            "Home"
+        ]
     }
 ]
