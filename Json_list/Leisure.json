@@ -2806,5 +2806,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1719792000000,
+        "Description": "Fade room barbershop",
+        "Amount": 80.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
