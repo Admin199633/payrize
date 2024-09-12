@@ -3294,5 +3294,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1724198400000,
+        "Description": "תחנת דלק גיסין",
+        "Amount": 12.9,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
