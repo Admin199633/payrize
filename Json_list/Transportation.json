@@ -1214,5 +1214,13 @@
         "Flag": [
             "Transportation"
         ]
+    },
+    {
+        "Date": 1717545600000,
+        "Description": "פנגו-אחוזות החוף",
+        "Amount": 6.5,
+        "Flag": [
+            "Transportation"
+        ]
     }
 ]
