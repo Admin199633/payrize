@@ -2158,5 +2158,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1717545600000,
+        "Description": "ג'ינג'יז מרקט",
+        "Amount": 9.5,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
