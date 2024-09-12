@@ -2558,5 +2558,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1719014400000,
+        "Description": "משלוחה הזמנת אוכל או",
+        "Amount": 64.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
