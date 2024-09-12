@@ -3206,5 +3206,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1723248000000,
+        "Description": "מכל הברים בכל העולם",
+        "Amount": 31.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
