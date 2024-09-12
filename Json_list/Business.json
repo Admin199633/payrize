@@ -436,5 +436,13 @@
         "Flag": [
             "Business"
         ]
+    },
+    {
+        "Date": 1722902400000,
+        "Description": "מס הכנסה עצמאיים וחב",
+        "Amount": 6770.0,
+        "Flag": [
+            "Business"
+        ]
     }
 ]
