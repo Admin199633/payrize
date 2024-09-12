@@ -2830,5 +2830,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1720137600000,
+        "Description": "אר אנד ואי מתוקים בע",
+        "Amount": 5.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
