@@ -3318,5 +3318,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1724198400000,
+        "Description": "בראשית",
+        "Amount": 12.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
