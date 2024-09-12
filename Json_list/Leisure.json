@@ -3174,5 +3174,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1722988800000,
+        "Description": "7 אקספרס פארק עופר",
+        "Amount": 10.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
