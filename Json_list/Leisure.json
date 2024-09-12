@@ -3238,5 +3238,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1723507200000,
+        "Description": "קניון העיר תל אביב",
+        "Amount": 20.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
