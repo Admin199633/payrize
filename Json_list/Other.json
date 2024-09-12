@@ -1486,5 +1486,13 @@
         "Flag": [
             "Other"
         ]
+    },
+    {
+        "Date": 1723075200000,
+        "Description": "שקוף סנטר",
+        "Amount": 132.0,
+        "Flag": [
+            "Other"
+        ]
     }
 ]
