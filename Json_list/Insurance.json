@@ -218,5 +218,13 @@
         "Flag": [
             "Insurance"
         ]
+    },
+    {
+        "Date": 1724716800000,
+        "Description": "ישיר-ביטוח",
+        "Amount": 30.0,
+        "Flag": [
+            "Insurance"
+        ]
     }
 ]
