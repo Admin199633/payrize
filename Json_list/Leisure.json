@@ -3334,5 +3334,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1724371200000,
+        "Description": "ביתא",
+        "Amount": 140.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
