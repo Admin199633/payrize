@@ -3038,5 +3038,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1721952000000,
+        "Description": "היישות בעמ",
+        "Amount": 10.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
