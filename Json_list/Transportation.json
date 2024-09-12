@@ -1326,5 +1326,13 @@
         "Flag": [
             "Transportation"
         ]
+    },
+    {
+        "Date": 1722038400000,
+        "Description": "תחנת סונול אזור",
+        "Amount": 200.0,
+        "Flag": [
+            "Transportation"
+        ]
     }
 ]
