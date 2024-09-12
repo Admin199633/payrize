@@ -3302,5 +3302,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1724198400000,
+        "Description": "ז.ד. מרקט בע\"מ",
+        "Amount": 9.9,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
