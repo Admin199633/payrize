@@ -2750,5 +2750,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1718668800000,
+        "Description": "פז קיסריה",
+        "Amount": 9.9,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
