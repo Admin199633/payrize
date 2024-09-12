@@ -2134,5 +2134,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1717286400000,
+        "Description": "ארומה בגין תל אביב",
+        "Amount": 93.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
