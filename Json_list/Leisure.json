@@ -3062,5 +3062,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1722038400000,
+        "Description": "הבית של פיסטוק",
+        "Amount": 33.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
