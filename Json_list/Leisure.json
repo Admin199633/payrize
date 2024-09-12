@@ -2982,5 +2982,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1721433600000,
+        "Description": "מפגש גיבור",
+        "Amount": 12.9,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
