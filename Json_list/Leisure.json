@@ -3262,5 +3262,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1723852800000,
+        "Description": "האחים",
+        "Amount": 130.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
