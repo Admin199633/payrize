@@ -2846,5 +2846,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1720224000000,
+        "Description": "עלמה ביץ'",
+        "Amount": 35.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
