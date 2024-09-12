@@ -2854,5 +2854,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1720224000000,
+        "Description": "Wolt",
+        "Amount": 88.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
