@@ -3382,5 +3382,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1724889600000,
+        "Description": "קפה רומנו",
+        "Amount": 130.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
