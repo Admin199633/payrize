@@ -3094,5 +3094,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1722384000000,
+        "Description": "פיצה לילה בע''מ",
+        "Amount": 156.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
