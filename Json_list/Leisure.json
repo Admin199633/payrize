@@ -2342,5 +2342,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1719187200000,
+        "Description": "פז אפליקצית-yellow",
+        "Amount": 10.5,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
