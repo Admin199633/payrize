@@ -388,5 +388,13 @@
         "Flag": [
             "Business"
         ]
+    },
+    {
+        "Date": 1717372800000,
+        "Description": "חניון גן העיר תל אבי",
+        "Amount": 100.0,
+        "Flag": [
+            "Business"
+        ]
     }
 ]
