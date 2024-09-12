@@ -3086,5 +3086,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1722297600000,
+        "Description": "החנות האורגנית של בר",
+        "Amount": 5.9,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
