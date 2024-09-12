@@ -2814,5 +2814,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1719964800000,
+        "Description": "קופי בר",
+        "Amount": 92.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
