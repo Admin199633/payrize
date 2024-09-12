@@ -2902,5 +2902,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1720742400000,
+        "Description": "מוזמביק בר",
+        "Amount": 104.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
