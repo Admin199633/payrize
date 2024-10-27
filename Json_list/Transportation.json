@@ -1470,5 +1470,13 @@
         "Flag": [
             "Transportation"
         ]
+    },
+    {
+        "Date": 1729987200000,
+        "Description": "פנגו חשבונית חודשית",
+        "Amount": 9.9,
+        "Flag": [
+            "Transportation"
+        ]
     }
 ]
