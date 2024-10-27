@@ -3766,5 +3766,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1728259200000,
+        "Description": "גרגר הזהב",
+        "Amount": 50.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
