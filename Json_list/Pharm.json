@@ -264,5 +264,13 @@
         "Flag": [
             "Pharm"
         ]
+    },
+    {
+        "Date": 1729468800000,
+        "Description": "Upapp",
+        "Amount": 25.0,
+        "Flag": [
+            "Pharm"
+        ]
     }
 ]
