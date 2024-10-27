@@ -1398,5 +1398,13 @@
         "Flag": [
             "Transportation"
         ]
+    },
+    {
+        "Date": 1726963200000,
+        "Description": "פנגו-חניונים",
+        "Amount": 51.9,
+        "Flag": [
+            "Transportation"
+        ]
     }
 ]
