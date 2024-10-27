@@ -3614,5 +3614,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1726963200000,
+        "Description": "שוק העליה",
+        "Amount": 8.14,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
