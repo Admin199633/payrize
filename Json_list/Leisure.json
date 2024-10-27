@@ -3590,5 +3590,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1726617600000,
+        "Description": "בורגר קינג-טרמינל נת",
+        "Amount": 23,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
