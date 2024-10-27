@@ -1678,5 +1678,13 @@
         "Flag": [
             "Other"
         ]
+    },
+    {
+        "Date": 1729641600000,
+        "Description": "בנק לאומי- payback",
+        "Amount": -7.09,
+        "Flag": [
+            "Other"
+        ]
     }
 ]
