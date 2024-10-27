@@ -3606,5 +3606,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1726963200000,
+        "Description": "חומוס חמודות",
+        "Amount": 31,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
