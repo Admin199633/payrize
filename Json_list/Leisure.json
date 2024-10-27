@@ -3462,5 +3462,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1725494400000,
+        "Description": "עופר פלאפל בעמ",
+        "Amount": 100,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
