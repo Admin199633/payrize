@@ -3534,5 +3534,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1726185600000,
+        "Description": "עספור",
+        "Amount": 34,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
