@@ -3902,5 +3902,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1729468800000,
+        "Description": "שווארמה נונה כפר סבא",
+        "Amount": 30.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
