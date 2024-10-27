@@ -3454,5 +3454,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1725494400000,
+        "Description": "מש - קר בע\"מ",
+        "Amount": 11.7,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
