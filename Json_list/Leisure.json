@@ -3862,5 +3862,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1729382400000,
+        "Description": "אוטלו ג'לטו בע\"מ",
+        "Amount": 9.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
