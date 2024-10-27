@@ -3806,5 +3806,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1728518400000,
+        "Description": "זיסו",
+        "Amount": 80.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
