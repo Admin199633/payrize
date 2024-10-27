@@ -3566,5 +3566,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1726531200000,
+        "Description": "פלאפל בן חור",
+        "Amount": 24,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
