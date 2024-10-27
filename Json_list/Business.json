@@ -444,5 +444,13 @@
         "Flag": [
             "Business"
         ]
+    },
+    {
+        "Date": 1729382400000,
+        "Description": "דיו סנטר בעמ",
+        "Amount": 1700.0,
+        "Flag": [
+            "Business"
+        ]
     }
 ]
