@@ -3830,5 +3830,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1728950400000,
+        "Description": "בבל חנויות נוחות",
+        "Amount": 9.9,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
