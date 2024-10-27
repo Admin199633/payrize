@@ -3790,5 +3790,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1728432000000,
+        "Description": "מאמא",
+        "Amount": 85.41,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
