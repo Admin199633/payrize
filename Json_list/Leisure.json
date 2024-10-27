@@ -3510,5 +3510,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1726012800000,
+        "Description": "פיצוציית השדרה 18",
+        "Amount": 10,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
