@@ -3774,5 +3774,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1728345600000,
+        "Description": "חומוס חמודות",
+        "Amount": 31.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
