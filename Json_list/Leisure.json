@@ -3494,5 +3494,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1725753600000,
+        "Description": "מ.א מכונות אוטומטיות",
+        "Amount": 8,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
