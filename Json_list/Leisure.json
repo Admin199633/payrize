@@ -3694,5 +3694,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1727654400000,
+        "Description": "סביח פרישמן",
+        "Amount": 25,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
