@@ -1374,5 +1374,13 @@
         "Flag": [
             "Transportation"
         ]
+    },
+    {
+        "Date": 1725753600000,
+        "Description": "רכבת ישראל - תל אביב",
+        "Amount": 25,
+        "Flag": [
+            "Transportation"
+        ]
     }
 ]
