@@ -3686,5 +3686,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1727654400000,
+        "Description": "החלבן",
+        "Amount": 25,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
