@@ -234,5 +234,13 @@
         "Flag": [
             "Insurance"
         ]
+    },
+    {
+        "Date": 1726617600000,
+        "Description": "כלל ביטוח חו\"ל",
+        "Amount": 38.17,
+        "Flag": [
+            "Insurance"
+        ]
     }
 ]
