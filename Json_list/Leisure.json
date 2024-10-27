@@ -3678,5 +3678,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1727568000000,
+        "Description": "סמיילי שייק",
+        "Amount": 32,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
