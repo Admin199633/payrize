@@ -3486,5 +3486,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1725667200000,
+        "Description": "שוק שפירא",
+        "Amount": 33,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
