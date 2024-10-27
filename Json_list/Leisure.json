@@ -3910,5 +3910,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1729468800000,
+        "Description": "באבא שופ",
+        "Amount": 10.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
