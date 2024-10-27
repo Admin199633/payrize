@@ -3582,5 +3582,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1726617600000,
+        "Description": "קפה קפה g",
+        "Amount": 8.5,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
