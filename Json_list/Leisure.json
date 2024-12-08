@@ -4046,5 +4046,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1731628800000,
+        "Description": "שווארמה פלאפל אלי",
+        "Amount": 40.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
