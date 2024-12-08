@@ -1510,5 +1510,13 @@
         "Flag": [
             "Transportation"
         ]
+    },
+    {
+        "Date": 1731801600000,
+        "Description": "גראג' אופניים",
+        "Amount": 50.0,
+        "Flag": [
+            "Transportation"
+        ]
     }
 ]
