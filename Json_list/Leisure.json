@@ -4190,5 +4190,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1732838400000,
+        "Description": "פאב 55 א.ש. גלדור 55",
+        "Amount": 70.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
