@@ -3942,5 +3942,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1730505600000,
+        "Description": "Jony wine bar",
+        "Amount": 98.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
