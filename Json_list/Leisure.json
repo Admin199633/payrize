@@ -4006,5 +4006,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1731369600000,
+        "Description": "אלוף בצלות",
+        "Amount": 14.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
