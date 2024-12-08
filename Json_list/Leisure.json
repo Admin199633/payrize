@@ -4182,5 +4182,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1732752000000,
+        "Description": "בי פרש יס פלאנט",
+        "Amount": 39.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
