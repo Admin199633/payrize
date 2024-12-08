@@ -4094,5 +4094,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1731974400000,
+        "Description": "אופטיקל סנטר שנקין",
+        "Amount": 8.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
