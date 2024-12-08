@@ -3990,5 +3990,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1731110400000,
+        "Description": "פיצה טוביה חולון",
+        "Amount": 150.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
