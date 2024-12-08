@@ -4062,5 +4062,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1731628800000,
+        "Description": "קפה לוינסקי",
+        "Amount": 23.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
