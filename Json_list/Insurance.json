@@ -250,5 +250,13 @@
         "Flag": [
             "Insurance"
         ]
+    },
+    {
+        "Date": 1732579200000,
+        "Description": "ביטוח ישיר-חיים",
+        "Amount": 34.52,
+        "Flag": [
+            "Insurance"
+        ]
     }
 ]
