@@ -1710,5 +1710,13 @@
         "Flag": [
             "Other"
         ]
+    },
+    {
+        "Date": 1730851200000,
+        "Description": "Liroys barber shop",
+        "Amount": 90.0,
+        "Flag": [
+            "Other"
+        ]
     }
 ]
