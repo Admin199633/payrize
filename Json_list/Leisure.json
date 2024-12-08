@@ -4086,5 +4086,13 @@
         "Flag": [
             "Leisure"
         ]
+    },
+    {
+        "Date": 1731974400000,
+        "Description": "פטריקס מזרח",
+        "Amount": 612.0,
+        "Flag": [
+            "Leisure"
+        ]
     }
 ]
